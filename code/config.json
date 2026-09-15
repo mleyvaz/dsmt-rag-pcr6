@@ -1,0 +1,23 @@
+{
+  "items_per_scenario": 400,
+  "seeds": 8,
+  "seed_base": 20260914,
+  "scenarios": [
+    "exclusive_low_conflict",
+    "overlap_balanced",
+    "zadeh_overlap_trap",
+    "exclusive_partial_conflict",
+    "duplicated_misinformation",
+    "independent_misinformation",
+    "missing_evidence"
+  ],
+  "methods": [
+    "vote_pool",
+    "dst_coarse_dempster",
+    "dst_refined_dempster",
+    "dst_refined_dempster_provenance",
+    "dst_refined_yager",
+    "dsmt_pcr6",
+    "dsmt_pcr6_provenance"
+  ]
+}

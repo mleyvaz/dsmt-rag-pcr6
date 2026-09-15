@@ -1,0 +1,11 @@
+{
+  "name": "dsmt-rag-pcr6-preliminary",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Preliminary reproducibility package for provenance-aware PCR6 in conflicting RAG evidence",
+  "type": "module",
+  "dependencies": {
+    "@huggingface/transformers": "4.2.0"
+  }
+}
+

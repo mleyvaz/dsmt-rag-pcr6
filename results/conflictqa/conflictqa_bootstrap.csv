@@ -1,0 +1,13 @@
+﻿variant,target,comparator,accuracy_difference,ci95_low,ci95_high
+balanced,dsmt_pcr6,dst,0.0,0.0,0.0
+balanced,dsmt_pcr6_provenance,dst_provenance,0.0,0.0,0.0
+balanced,dsmt_pcr6_provenance,majority,0.0,0.0,0.0
+memory_repeat_x3,dsmt_pcr6,dst,0.0,0.0,0.0
+memory_repeat_x3,dsmt_pcr6_provenance,dst_provenance,0.0,0.0,0.0
+memory_repeat_x3,dsmt_pcr6_provenance,majority,1.0,1.0,1.0
+independent_memory_x3,dsmt_pcr6,dst,0.0,0.0,0.0
+independent_memory_x3,dsmt_pcr6_provenance,dst_provenance,0.0,0.0,0.0
+independent_memory_x3,dsmt_pcr6_provenance,majority,0.0,0.0,0.0
+external_repeat_x3,dsmt_pcr6,dst,0.0,0.0,0.0
+external_repeat_x3,dsmt_pcr6_provenance,dst_provenance,-0.001887504718761797,-0.002894173902101422,-0.001006669183339625
+external_repeat_x3,dsmt_pcr6_provenance,majority,-0.001887504718761797,-0.002894173902101422,-0.001006669183339625

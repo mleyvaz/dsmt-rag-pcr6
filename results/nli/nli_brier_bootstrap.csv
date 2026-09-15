@@ -1,0 +1,7 @@
+﻿variant,target,comparator,brier_difference,ci95_low,ci95_high,interpretation
+original,dsmt_nli_pcr6_provenance,dst_nli_factorized_provenance,-0.035263472854766005,-0.04634976946983659,-0.02508293288863012,negative favors target
+original,dsmt_nli_pcr6_provenance,nli_pool_topk,-0.10593520000216824,-0.14016184963817757,-0.07085318772410745,negative favors target
+duplicate_misinfo_x3,dsmt_nli_pcr6_provenance,dst_nli_factorized_provenance,-0.035263472854766005,-0.04634976946983659,-0.02508293288863012,negative favors target
+duplicate_misinfo_x3,dsmt_nli_pcr6_provenance,nli_pool_topk,-0.13128124348701212,-0.16626581371057825,-0.09578476564028555,negative favors target
+misinfo_dominant,dsmt_nli_pcr6_provenance,dst_nli_factorized_provenance,-0.01898632714339538,-0.026748150118838254,-0.011904050311346889,negative favors target
+misinfo_dominant,dsmt_nli_pcr6_provenance,nli_pool_topk,-0.2357826831956283,-0.2730097954846623,-0.1985045751341652,negative favors target

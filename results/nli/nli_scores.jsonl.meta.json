@@ -1,0 +1,12 @@
+{
+  "model": "Xenova/distilbert-base-uncased-mnli",
+  "dtype": "q8",
+  "max_length": 256,
+  "items": 500,
+  "pairs": 7802,
+  "label_order": [
+    "ENTAILMENT",
+    "NEUTRAL",
+    "CONTRADICTION"
+  ]
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+hf_cache/
+*.tmp
+*.log
+.env
+.DS_Store
+
+# Raw public datasets are downloaded separately
+RAMDocs_test.jsonl
+conflictQA-*.json
+

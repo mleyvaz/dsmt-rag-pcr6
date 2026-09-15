@@ -1,0 +1,7 @@
+﻿variant,target,comparator,f1_difference,ci95_low,ci95_high
+original,dsmt_nli_pcr6_provenance,dst_nli_factorized_provenance,0.0,0.0,0.0
+original,dsmt_nli_pcr6_provenance,nli_pool_topk,0.016133333333333333,0.007266666666666664,0.025266666666666666
+duplicate_misinfo_x3,dsmt_nli_pcr6_provenance,dst_nli_factorized_provenance,0.0,0.0,0.0
+duplicate_misinfo_x3,dsmt_nli_pcr6_provenance,nli_pool_topk,0.029466666666666665,0.016598333333333333,0.04260333333333335
+misinfo_dominant,dsmt_nli_pcr6_provenance,dst_nli_factorized_provenance,0.0,0.0,0.0
+misinfo_dominant,dsmt_nli_pcr6_provenance,nli_pool_topk,0.06333333333333332,0.049131666666666664,0.07780333333333334
