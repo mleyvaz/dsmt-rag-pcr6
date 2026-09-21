@@ -1,0 +1,1285 @@
+﻿item_id,rule,eligible,applicability,candidate_count,source_count,gold_count,exact_set,set_precision,set_recall,set_f1,brier,nonspecificity,prediction,gold
+2,dempster,True,False,2,6,1,1.0,1.0,1.0,1.0,0.2621769462300122,0.596960744918398,mahesh bhatt,mahesh bhatt
+2,pcr6,True,False,2,6,1,1.0,1.0,1.0,1.0,0.2684263004520587,0.6090109184899664,mahesh bhatt,mahesh bhatt
+2,pcr6_plus,True,False,2,6,1,1.0,1.0,1.0,1.0,0.25700116530408124,0.5761307444351175,mahesh bhatt,mahesh bhatt
+4,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.19186392818844142,0.5550830746267857,1856,1856
+4,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.19326370472954138,0.5578195838635671,1856,1856
+4,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.18485291202227366,0.5421089223560653,1856,1856
+6,dempster,True,True,3,5,1,0.0,0.0,0.0,0.0,1.4594793466436642,0.7118709704314711,1850,1902
+6,pcr6,True,True,3,5,1,0.0,0.0,0.0,0.0,1.435448342871695,0.7345751433750207,1850,1902
+6,pcr6_plus,True,True,3,5,1,0.0,0.0,0.0,0.0,1.4542268192200511,0.7027109600256809,1850,1902
+8,dempster,True,False,2,2,1,0.0,0.0,0.0,0.0,1.7010326958020485,0.15553113563711882,july 15 1905,february 8 1900
+8,pcr6,True,False,2,2,1,0.0,0.0,0.0,0.0,1.7010326958020485,0.15553113563711882,july 15 1905,february 8 1900
+8,pcr6_plus,True,False,2,2,1,0.0,0.0,0.0,0.0,1.7010326958020485,0.15553113563711882,july 15 1905,february 8 1900
+9,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.056668393751098216,0.034685708703187566,4 411,4 411
+9,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.2713107851994493,0.27157076470170244,4 411,4 411
+9,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.23692028453284014,0.007632077378919185,4 411,4 411
+12,dempster,True,False,2,6,1,1.0,1.0,1.0,1.0,0.44094548210544354,0.8645903684421786,blitzen trapper,blitzen trapper
+12,pcr6,True,False,2,6,1,1.0,1.0,1.0,1.0,0.4411868340106678,0.8650938618247977,blitzen trapper,blitzen trapper
+12,pcr6_plus,True,False,2,6,1,1.0,1.0,1.0,1.0,0.44116404778768337,0.8609493166273985,blitzen trapper,blitzen trapper
+13,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,1.6394524085698747,0.1746608190132765,the beatles,carpenters
+13,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,1.6079997804469581,0.19178110074601698,the beatles,carpenters
+13,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,1.6456531142482522,0.16889999891481905,the beatles,carpenters
+14,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.37980567546161403,0.8715568546705534,needtobreathe,needtobreathe
+14,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.37980567546161403,0.8715568546705534,needtobreathe,needtobreathe
+14,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.37980567546161403,0.8715568546705534,needtobreathe,needtobreathe
+15,dempster,True,False,2,6,1,1.0,1.0,1.0,1.0,0.0001105103102884257,0.013888383807649477,football,football
+15,pcr6,True,False,2,6,1,1.0,1.0,1.0,1.0,0.0006559762042448755,0.03496841568237115,football,football
+15,pcr6_plus,True,False,2,6,1,1.0,1.0,1.0,1.0,0.00011714477927988434,0.01342240507153619,football,football
+20,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.010077298716521904,0.13359743190343065,academy,academy
+20,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.012092234910278127,0.1466695067441243,academy,academy
+20,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.009849811417753561,0.13008416933280734,academy,academy
+21,dempster,True,True,3,6,1,0.0,0.0,0.0,0.0,0.7337902503656074,0.38497105872807647,1 january 1738,1 december 1737
+21,pcr6,True,True,3,6,1,0.0,0.0,0.0,0.0,0.6893420441613918,0.6420192970392641,1 january 1738,1 december 1737
+21,pcr6_plus,True,True,3,6,1,0.0,0.0,0.0,0.0,0.6945608718728478,0.5407979466326653,1 january 1738,1 december 1737
+22,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.44673759571250626,0.8574644020183162,cloutierville louisiana,cloutierville louisiana
+22,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.44677833164853376,0.8575198770242509,cloutierville louisiana,cloutierville louisiana
+22,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.4453606594074758,0.8531567669318326,cloutierville louisiana,cloutierville louisiana
+24,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.25539938783377625,0.1141861786856014,novel,novel
+24,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.35611011223758354,0.34212746331074045,novel,novel
+24,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.31145557194601936,0.04495967432827619,novel,novel
+26,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.08929830453074808,0.4226069202716589,assamese language,assamese language
+26,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.08929830453074808,0.4226069202716589,assamese language,assamese language
+26,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.08929830453074808,0.4226069202716589,assamese language,assamese language
+27,dempster,True,False,2,2,1,0.0,0.0,0.0,0.0,0.5367928463249322,0.9398696105749077,documentary,short film
+27,pcr6,True,False,2,2,1,0.0,0.0,0.0,0.0,0.5371445966064071,0.9392925704890526,documentary,short film
+27,pcr6_plus,True,False,2,2,1,0.0,0.0,0.0,0.0,0.5371445966064071,0.9392925704890526,documentary,short film
+30,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.16082725409919982,0.43369171757430464,frank oz,frank oz
+30,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.1703802711636973,0.45683739164062165,frank oz,frank oz
+30,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.14506960840337232,0.4027355491627897,frank oz,frank oz
+32,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.06094544982855018,0.21743807475080534,about 50 000,about 50 000
+32,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.0912659631335577,0.2973048213170664,about 50 000,about 50 000
+32,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.06166593012981074,0.1786616108173235,about 50 000,about 50 000
+33,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,0.561981499660815,0.8106303113852736,42 800,428
+33,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5615984130783737,0.8118605042111624,42 800,428
+33,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5647773671607883,0.8026495874699663,42 800,428
+37,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,0.503825092868499,0.9108202468971958,anchorage alaska,miami florida
+37,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5038033240068657,0.9109322989399017,anchorage alaska,miami florida
+37,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5033893488026076,0.9088399486456241,anchorage alaska,miami florida
+39,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.35500151953585546,0.7795312356304405,june 19 1910,june 19 1910
+39,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.3558199505369345,0.7806703248479475,june 19 1910,june 19 1910
+39,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.3538145110890681,0.7736171968492416,june 19 1910,june 19 1910
+41,dempster,True,True,3,6,1,0.0,0.0,0.0,0.0,1.3720965301793604,0.7462326907999243,1955,1921
+41,pcr6,True,True,3,6,1,0.0,0.0,0.0,0.0,1.3078897599247572,0.8105710673425977,1955,1921
+41,pcr6_plus,True,True,3,6,1,0.0,0.0,0.0,0.0,1.3679646463047324,0.7212764116207404,1955,1921
+45,dempster,True,False,2,5,1,1.0,1.0,1.0,1.0,0.03512508958207023,0.25677036744169773,459,459
+45,pcr6,True,False,2,5,1,1.0,1.0,1.0,1.0,0.03682536772628676,0.2631558318149932,459,459
+45,pcr6_plus,True,False,2,5,1,1.0,1.0,1.0,1.0,0.03437920854440228,0.2537475975214774,459,459
+47,dempster,True,True,3,3,1,0.0,0.0,0.0,0.0,0.8298751198181958,0.06899519234825631,badminton,snooker
+47,pcr6,True,True,3,3,1,0.0,0.0,0.0,0.0,0.6299181729423687,0.7754571608028509,badminton,snooker
+47,pcr6_plus,True,True,3,3,1,0.0,0.0,0.0,0.0,0.6295884760265005,0.7735608223442157,badminton,snooker
+48,dempster,True,True,3,3,1,0.0,0.0,0.0,0.0,1.273253193453173,0.6070772774595443,22 october 1885,15 may 1885
+48,pcr6,True,True,3,3,1,0.0,0.0,0.0,0.0,1.2706757634155812,0.6100716083815327,22 october 1885,15 may 1885
+48,pcr6_plus,True,True,3,3,1,0.0,0.0,0.0,0.0,1.2776000076515004,0.6019245011327008,22 october 1885,15 may 1885
+49,dempster,True,False,2,3,1,0.0,0.0,0.0,0.0,1.7168882329183206,0.12929432162679344,sumo wrestling,ice hockey
+49,pcr6,True,False,2,3,1,0.0,0.0,0.0,0.0,1.6726072353037253,0.15057519792960883,sumo wrestling,ice hockey
+49,pcr6_plus,True,False,2,3,1,0.0,0.0,0.0,0.0,1.717718151125446,0.12210682317254765,sumo wrestling,ice hockey
+51,dempster,True,False,2,2,1,0.0,0.0,0.0,0.0,0.537737856016242,0.9629485489945622,about 1935,about 1835
+51,pcr6,True,False,2,2,1,0.0,0.0,0.0,0.0,0.537737856016242,0.9629485489945622,about 1935,about 1835
+51,pcr6_plus,True,False,2,2,1,0.0,0.0,0.0,0.0,0.537737856016242,0.9629485489945622,about 1935,about 1835
+53,dempster,True,True,3,5,1,1.0,1.0,1.0,1.0,0.46271861130901865,1.1543423662922168,slim the mobster,slim the mobster
+53,pcr6,True,True,3,5,1,1.0,1.0,1.0,1.0,0.46560312179138663,1.1614520402538937,slim the mobster,slim the mobster
+53,pcr6_plus,True,True,3,5,1,1.0,1.0,1.0,1.0,0.4526474317094207,1.1320199748434772,slim the mobster,slim the mobster
+54,dempster,True,False,2,5,1,0.0,0.0,0.0,0.0,1.50001301794184,0.04542411970709841,basketball,football
+54,pcr6,True,False,2,5,1,0.0,0.0,0.0,0.0,0.8148359572401487,0.4399058737925794,basketball,football
+54,pcr6_plus,True,False,2,5,1,0.0,0.0,0.0,0.0,0.8994472783190463,0.014817540376308898,basketball,football
+55,dempster,True,False,2,2,1,1.0,1.0,1.0,1.0,0.498796067550459,0.9604893301740677,aguadilla puerto rico,aguadilla puerto rico
+55,pcr6,True,False,2,2,1,1.0,1.0,1.0,1.0,0.4987844474222161,0.9600995779366438,aguadilla puerto rico,aguadilla puerto rico
+55,pcr6_plus,True,False,2,2,1,1.0,1.0,1.0,1.0,0.4987844474222161,0.9600995779366438,aguadilla puerto rico,aguadilla puerto rico
+56,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,0.7070747554224479,0.7943921460043816,the beatles,best coast
+56,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,0.7067425551151438,0.7946832790943479,the beatles,best coast
+56,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,0.7085228638621133,0.7927740866101524,the beatles,best coast
+60,dempster,True,False,2,6,1,0.0,0.0,0.0,0.0,1.4113393187739183,0.04101611990677759,abstract expressionist painting,poetry
+60,pcr6,True,False,2,6,1,0.0,0.0,0.0,0.0,0.7263163350367552,0.519200730343545,abstract expressionist painting,poetry
+60,pcr6_plus,True,False,2,6,1,0.0,0.0,0.0,0.0,0.7979346544434379,0.010832693384625895,abstract expressionist painting,poetry
+61,dempster,True,False,2,3,1,0.0,0.0,0.0,0.0,0.5483370504251295,0.9527779123556174,bursaspor,ankara s gen lerbirli i
+61,pcr6,True,False,2,3,1,0.0,0.0,0.0,0.0,0.5483370504251295,0.9527779123556174,bursaspor,ankara s gen lerbirli i
+61,pcr6_plus,True,False,2,3,1,0.0,0.0,0.0,0.0,0.5483370504251295,0.9527779123556174,bursaspor,ankara s gen lerbirli i
+62,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.0004122729497648284,0.02602534559414514,ice hockey,ice hockey
+62,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.000562861731539886,0.027748209298860328,ice hockey,ice hockey
+62,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.00047737180986836235,0.024779961707727872,ice hockey,ice hockey
+63,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.40893771042678867,0.5801913675726004,1 791 people,1 791 people
+63,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.4089238639589139,0.5956274220106739,1 791 people,1 791 people
+63,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.3830940065904243,0.5412237140115232,1 791 people,1 791 people
+64,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,1.1537677611503085,0.37096607106501345,forward,defender
+64,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,1.1156841559599242,0.3993793617904481,forward,defender
+64,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,1.1787274626104531,0.341875633728788,forward,defender
+66,dempster,True,False,2,6,1,1.0,1.0,1.0,1.0,0.43451538266606127,0.02863790594763894,republican,republican
+66,pcr6,True,False,2,6,1,1.0,1.0,1.0,1.0,0.4877663905809454,0.4993863224859483,republican,republican
+66,pcr6_plus,True,False,2,6,1,1.0,1.0,1.0,1.0,0.484728361786519,0.0031139190732678264,republican,republican
+67,dempster,True,True,3,5,1,0.0,0.0,0.0,0.0,0.6922244642442905,1.3341575540781405,elton john,joe boyd
+67,pcr6,True,True,3,5,1,0.0,0.0,0.0,0.0,0.6918479001179907,1.3363141230776703,elton john,joe boyd
+67,pcr6_plus,True,True,3,5,1,0.0,0.0,0.0,0.0,0.688364598610637,1.3225880116895872,elton john,joe boyd
+68,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.18010290282700622,0.6001714802071259,october 4 2016,october 4 2016
+68,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.18010290282700622,0.6001714802071259,october 4 2016,october 4 2016
+68,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.18010290282700622,0.6001714802071259,october 4 2016,october 4 2016
+69,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.08905560428767065,0.3518591729773771,cricket,cricket
+69,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.09477858308069434,0.36463420238074773,cricket,cricket
+69,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.08341896142688177,0.33158842102390224,cricket,cricket
+70,dempster,True,False,2,5,1,1.0,1.0,1.0,1.0,0.005001063781713233,0.08603405205676386,cut copy,cut copy
+70,pcr6,True,False,2,5,1,1.0,1.0,1.0,1.0,0.009581415147154172,0.12330058860252559,cut copy,cut copy
+70,pcr6_plus,True,False,2,5,1,1.0,1.0,1.0,1.0,0.004958969895281627,0.08013073110609395,cut copy,cut copy
+71,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,0.80654172697062,0.6307786544547691,kathmandu nepal,thimphu bhutan
+71,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,0.8021867192402109,0.6358557850638203,kathmandu nepal,thimphu bhutan
+71,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,0.8232694758566172,0.6153206399512109,kathmandu nepal,thimphu bhutan
+73,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.050478959678481365,0.22372317367740324,baroque,baroque
+73,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.06536725401566532,0.26073641765126654,baroque,baroque
+73,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.0492971670828857,0.1939968417841913,baroque,baroque
+74,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.42587900660888195,0.899723857613826,boys like girls,boys like girls
+74,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.4259072987129325,0.8997466319905915,boys like girls,boys like girls
+74,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.42535761167333236,0.8986970230810034,boys like girls,boys like girls
+76,dempster,True,False,2,3,1,1.0,1.0,1.0,1.0,0.03841277090720972,0.27717420842210305,odakyu electric railway,odakyu electric railway
+76,pcr6,True,False,2,3,1,1.0,1.0,1.0,1.0,0.03841277090720972,0.27717420842210305,odakyu electric railway,odakyu electric railway
+76,pcr6_plus,True,False,2,3,1,1.0,1.0,1.0,1.0,0.03841277090720972,0.27717420842210305,odakyu electric railway,odakyu electric railway
+77,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.42064099020569473,0.8557187796734613,november 25 1865,november 25 1865
+77,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.42092894497030026,0.8561356170418154,november 25 1865,november 25 1865
+77,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.42057759333977135,0.8522420653659628,november 25 1865,november 25 1865
+80,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5641910293331499,0.3643030323419588,january 1 2006,november 1 2007
+80,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5607228439013119,0.43043931048950507,january 1 2006,november 1 2007
+80,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,0.5845754883377163,0.2858045016442827,january 1 2006,november 1 2007
+81,dempster,True,False,2,5,1,1.0,1.0,1.0,1.0,0.015334063138743973,0.16259295194449316,1912,1912
+81,pcr6,True,False,2,5,1,1.0,1.0,1.0,1.0,0.018846979570645222,0.18136679205026737,1912,1912
+81,pcr6_plus,True,False,2,5,1,1.0,1.0,1.0,1.0,0.014955915591684799,0.15754734561635508,1912,1912
+82,dempster,True,False,2,5,1,1.0,1.0,1.0,1.0,0.00014348446734537777,0.013426599540597432,republican,republican
+82,pcr6,True,False,2,5,1,1.0,1.0,1.0,1.0,0.0034537142200993017,0.07567789479838753,republican,republican
+82,pcr6_plus,True,False,2,5,1,1.0,1.0,1.0,1.0,0.00031968856695845256,0.011893982186512603,republican,republican
+83,dempster,True,False,2,2,1,0.0,0.0,0.0,0.0,0.5229384576358191,0.9773187616507095,5 000,1 294
+83,pcr6,True,False,2,2,1,0.0,0.0,0.0,0.0,0.5229384576358191,0.9773187616507095,5 000,1 294
+83,pcr6_plus,True,False,2,2,1,0.0,0.0,0.0,0.0,0.5229384576358191,0.9773187616507095,5 000,1 294
+90,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.47848832779776246,0.818962673776252,jade valerie,jade valerie
+90,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.4789154807835024,0.8200830924999555,jade valerie,jade valerie
+90,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.4822349281330218,0.810966140883723,jade valerie,jade valerie
+92,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.002939882234476334,0.07132896626659868,yellow lantern banksia,yellow lantern banksia
+92,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.004573897342194261,0.08949343812298906,yellow lantern banksia,yellow lantern banksia
+92,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.002949663068324419,0.06893477714930314,yellow lantern banksia,yellow lantern banksia
+95,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.3089550957483397,0.032590146042220706,rugby union,rugby union
+95,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.4659610742576439,0.42482054937368974,rugby union,rugby union
+95,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.4601611954878952,0.00416321820336202,rugby union,rugby union
+96,dempster,True,False,2,5,1,0.0,0.0,0.0,0.0,1.7149957946530368,0.12631735336852742,ice hockey,american football
+96,pcr6,True,False,2,5,1,0.0,0.0,0.0,0.0,1.6454794713048886,0.16350874437142165,ice hockey,american football
+96,pcr6_plus,True,False,2,5,1,0.0,0.0,0.0,0.0,1.7197380544191514,0.11761671138250325,ice hockey,american football
+97,dempster,True,False,2,4,1,1.0,1.0,1.0,1.0,0.12494488814071446,0.4998897641294818,football,football
+97,pcr6,True,False,2,4,1,1.0,1.0,1.0,1.0,0.12494488814071446,0.4998897641294818,football,football
+97,pcr6_plus,True,False,2,4,1,1.0,1.0,1.0,1.0,0.12494488814071446,0.4998897641294818,football,football
+100,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.004688053156517191,0.9031697035374033,june 21 1998 || january 2012,january 2012 || june 21 1998
+100,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.004688053156517191,0.9031697035374033,june 21 1998 || january 2012,january 2012 || june 21 1998
+100,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.004688053156517191,0.9031697035374033,june 21 1998 || january 2012,january 2012 || june 21 1998
+101,dempster,True,True,4,6,2,1.0,1.0,1.0,1.0,0.16541454223294258,0.5871279102974506,1988 || 1987,1987 || 1988
+101,pcr6,True,True,4,6,2,1.0,1.0,1.0,1.0,0.15487418180268595,0.6611342244680122,1988 || 1987,1987 || 1988
+101,pcr6_plus,True,True,4,6,2,1.0,1.0,1.0,1.0,0.1717356345894553,0.5590236423666549,1988 || 1987,1987 || 1988
+102,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.375993892600833,0.31029025887283374,jeremy camp || metallica,dynasty || jeremy camp
+102,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3381663191224105,0.40711725049145403,jeremy camp || metallica,dynasty || jeremy camp
+102,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3708669092889765,0.3322508082848063,jeremy camp || metallica,dynasty || jeremy camp
+103,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0010173761251183761,0.9524463050728822,harold land || barbra streisand,barbra streisand || harold land
+103,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.001019795054214001,0.9523896580294372,harold land || barbra streisand,barbra streisand || harold land
+103,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.001019795054214001,0.9523896580294372,harold land || barbra streisand,barbra streisand || harold land
+104,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3402965018401978,0.03814030556423188,3 september 1717 || 12 december 1750,3 july 1750 || 3 september 1717
+104,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16621738986972,1.0184968175574278,3 september 1717 || 12 december 1750,3 july 1750 || 3 september 1717
+104,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.17521933690924865,0.8277574936784035,3 september 1717 || 12 december 1750,3 july 1750 || 3 september 1717
+105,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.24259070111082748,0.28310165724847597,malik shah i || mustafa ii,malik shah i || mustafa ii
+105,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.23388530859982365,0.2959683846463142,malik shah i || mustafa ii,malik shah i || mustafa ii
+105,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.24675896753332882,0.27608930505943263,malik shah i || mustafa ii,malik shah i || mustafa ii
+106,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.2528822874748034,0.21876777646612752,elia kazan || franco giraldi,elia kazan || franco giraldi
+106,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.21209692394440163,0.2830420988393286,elia kazan || franco giraldi,elia kazan || franco giraldi
+106,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.2612691848808576,0.195417961818562,elia kazan || franco giraldi,elia kazan || franco giraldi
+108,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.12448560789962025,0.5010298447810326,william parke || raoul walsh,raoul walsh || william parke
+108,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.12448560789962025,0.5010298447810326,william parke || raoul walsh,raoul walsh || william parke
+108,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.12448560789962025,0.5010298447810326,william parke || raoul walsh,raoul walsh || william parke
+109,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.22100426581904872,0.2981608428509662,in flight safety || tracy lawrence,in flight safety || tracy lawrence
+109,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.2098000678663752,0.31547401247486206,in flight safety || tracy lawrence,in flight safety || tracy lawrence
+109,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.22674557102449114,0.2860326756129569,in flight safety || tracy lawrence,in flight safety || tracy lawrence
+110,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3653492997301407,0.32042433060216113,174 || 1 234,174 || 9 523
+110,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.33245129078114927,0.40548298165119456,174 || 1 234,174 || 9 523
+110,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.35264516058132,0.36396943254393344,174 || 1 234,174 || 9 523
+111,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4370049990305889,0.9718261008663082,1855 || 1886,1855 || 1898
+111,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.42289930818931104,0.9925799345903867,1855 || 1886,1855 || 1898
+111,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4356987130481094,0.9693992208656587,1855 || 1886,1855 || 1898
+112,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,3.0628379733706724e-05,0.9259672147160711,april 1958 || june 1936,april 1958 || june 1936
+112,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,3.171125700226095e-05,0.9246142952084658,april 1958 || june 1936,april 1958 || june 1936
+112,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,3.171125700226095e-05,0.9246142952084658,april 1958 || june 1936,april 1958 || june 1936
+113,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.45638815389888543,0.044606726108158835,baseball || hockey,baseball || hockey
+113,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.45638815389888543,0.044606726108158835,baseball || hockey,baseball || hockey
+113,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.45638815389888543,0.044606726108158835,baseball || hockey,baseball || hockey
+114,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.04460072983351132,0.5171245080740384,ice hockey || american football,american football || ice hockey
+114,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.039386810161413544,0.5931229542785514,ice hockey || american football,american football || ice hockey
+114,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.05132229284451137,0.5019343623953119,ice hockey || american football,american football || ice hockey
+115,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.4647797088473149,0.02801308136092349,comedy film || gangster thriller,comedy film || gangster thriller
+115,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.38744584988088715,0.10963838329204798,comedy film || gangster thriller,comedy film || gangster thriller
+115,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.45774051814292543,0.02466714701254318,comedy film || gangster thriller,comedy film || gangster thriller
+116,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.040982191722878286,0.3460286366442103,american football || baseball,american football || baseball
+116,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.029631785076630224,0.44107217417856037,american football || baseball,american football || baseball
+116,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.049171660846392795,0.27687323462273256,american football || baseball,american football || baseball
+117,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.27844988421777694,0.23221650087352827,924 || 1 243,1 243 || 924
+117,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.2662646004326218,0.24834758890036104,924 || 1 243,1 243 || 924
+117,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.28182288781327963,0.22434476826503155,924 || 1 243,1 243 || 924
+118,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.10908699864845071,0.5294453632283898,carl a || william e parsons,carl a || william e parsons
+118,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.10875269876137297,0.5309155234515434,carl a || william e parsons,carl a || william e parsons
+118,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.10939656913504558,0.5287136480001826,carl a || william e parsons,carl a || william e parsons
+119,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4161147045913039,0.7376073391884912,4 624 || 12 345,2 097 || 4 624
+119,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4109234127958694,0.7486405771484451,4 624 || 12 345,2 097 || 4 624
+119,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.41517575455231936,0.7345107575218488,4 624 || 12 345,2 097 || 4 624
+121,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.00252518997260362,0.8947769790383217,26 december 1844 || 5 january 1884,26 december 1844 || 5 january 1884
+121,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.002521686923684453,0.8948100918993597,26 december 1844 || 5 january 1884,26 december 1844 || 5 january 1884
+121,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0025678229241388696,0.8932741313859125,26 december 1844 || 5 january 1884,26 december 1844 || 5 january 1884
+122,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.07583781318881569,0.17867426144900356,26 july 1941 || may 30 1994,26 july 1941 || may 30 1994
+122,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.03035392667325084,0.31519862785420694,26 july 1941 || may 30 1994,26 july 1941 || may 30 1994
+122,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.032338373981794705,0.1031821560326371,26 july 1941 || may 30 1994,26 july 1941 || may 30 1994
+123,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,6.41600382907852e-05,0.9267756944863009,writer and comedian || actor,actor || writer and comedian
+123,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,6.424655765789392e-05,0.9267822834382554,writer and comedian || actor,actor || writer and comedian
+123,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,6.833046081686702e-05,0.9254691692546669,writer and comedian || actor,actor || writer and comedian
+124,dempster,True,True,3,5,2,1.0,1.0,1.0,1.0,0.02288501840150806,0.9410543504764811,37 years || 45 7 years,37 years || 45 7 years
+124,pcr6,True,True,3,5,2,1.0,1.0,1.0,1.0,0.02483524406939743,0.9568081193894581,37 years || 45 7 years,37 years || 45 7 years
+124,pcr6_plus,True,True,3,5,2,1.0,1.0,1.0,1.0,0.023220129669376872,0.9211873739973584,37 years || 45 7 years,37 years || 45 7 years
+125,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.047240338009708276,0.5469752585090422,first boer war || second boer war,first boer war || second boer war
+125,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.04533894636127764,0.5511917208135996,first boer war || second boer war,first boer war || second boer war
+125,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.04940079528550785,0.5206215865325011,first boer war || second boer war,first boer war || second boer war
+126,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.0012354787219059477,0.9034078787490326,bradley joseph || joe mcelderry,bradley joseph || joe mcelderry
+126,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.001231296678110237,0.9035685532961016,bradley joseph || joe mcelderry,bradley joseph || joe mcelderry
+126,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.0012615270588773935,0.9016963572989172,bradley joseph || joe mcelderry,bradley joseph || joe mcelderry
+127,dempster,True,True,4,6,2,0.0,0.0,0.0,0.0,1.3743355708044307,0.076603488705443,50 000 || 12 345,81 615 || 963 022
+127,pcr6,True,True,4,6,2,0.0,0.0,0.0,0.0,0.9302633380346779,0.5591019574946705,50 000 || 12 345,81 615 || 963 022
+127,pcr6_plus,True,True,4,6,2,0.0,0.0,0.0,0.0,1.0234263565766355,0.32057121520791276,50 000 || 12 345,81 615 || 963 022
+128,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.21847942235939385,1.2796850537846878,conservative || liberal progressives,liberal progressives || quebec liberal party
+128,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.21780976090923515,1.28303369400696,conservative || liberal progressives,liberal progressives || quebec liberal party
+128,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.2196038839883097,1.26589827521687,conservative || liberal progressives,liberal progressives || quebec liberal party
+129,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4312699514946834,1.0081876628289723,springfield illinois usa || stanford kentucky usa,hamlin west virginia || stanford kentucky usa
+129,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.42533074142843785,1.0173888708391148,springfield illinois usa || stanford kentucky usa,hamlin west virginia || stanford kentucky usa
+129,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.431253497815115,1.0070424661854869,springfield illinois usa || stanford kentucky usa,hamlin west virginia || stanford kentucky usa
+130,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.26133500037601387,0.25953384226233034,hindi || telugu,hindi || telugu
+130,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.25141147438024675,0.2735108822433156,hindi || telugu,hindi || telugu
+130,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.26453287862026453,0.25328307243335935,hindi || telugu,hindi || telugu
+131,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.42055654956056016,0.7806944202377579,play || novel,film || play
+131,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.41958959986066807,0.7827954614850099,play || novel,film || play
+131,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.42028383267460506,0.7788458949300457,play || novel,film || play
+132,dempster,True,False,2,5,2,0.0,0.5,0.5,0.5,0.5502456649621474,0.8545025699056294,robert downey jr || richard speight jr,richard speight jr || rock street journal
+132,pcr6,True,False,2,5,2,0.0,0.5,0.5,0.5,0.5499633423856336,0.8551544468036141,robert downey jr || richard speight jr,richard speight jr || rock street journal
+132,pcr6_plus,True,False,2,5,2,0.0,0.5,0.5,0.5,0.5500625965659164,0.8498371122101019,robert downey jr || richard speight jr,richard speight jr || rock street journal
+133,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3442832616066115,0.6845512503605453,john hartford || taylor swift,john hartford || westlife
+133,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3164890064002923,0.7682222112238756,john hartford || taylor swift,john hartford || westlife
+133,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.34572862005557425,0.6715010744234107,john hartford || taylor swift,john hartford || westlife
+135,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.2536388229425204,0.4854320382716407,887 people || 12 456 people,3 171 people || 887 people
+135,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.245127681637417,0.5093035674187246,887 people || 12 456 people,3 171 people || 887 people
+135,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.2584201873633367,0.46977404592697536,887 people || 12 456 people,3 171 people || 887 people
+136,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.055166522919296065,0.5869170220174327,1970 || 1972,1970 || 1972
+136,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.05328814258886362,0.5941560974188418,1970 || 1972,1970 || 1972
+136,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.05941029163056764,0.5722184584947753,1970 || 1972,1970 || 1972
+137,dempster,True,True,3,4,2,1.0,1.0,1.0,1.0,0.003284993284641438,0.8407166951861618,december 5 1827 || february 19 1873,december 5 1827 || february 19 1873
+137,pcr6,True,True,3,4,2,1.0,1.0,1.0,1.0,0.012749066691806117,0.9256364244686408,december 5 1827 || february 19 1873,december 5 1827 || february 19 1873
+137,pcr6_plus,True,True,3,4,2,1.0,1.0,1.0,1.0,0.008772185824907425,0.8327146668383452,december 5 1827 || february 19 1873,december 5 1827 || february 19 1873
+138,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.11096009330152148,0.4596142742060091,quarterback || linebacker,linebacker || quarterback
+138,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.1053852445810177,0.4736628635935654,quarterback || linebacker,linebacker || quarterback
+138,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.11882127003011883,0.442733756724892,quarterback || linebacker,linebacker || quarterback
+139,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.6013080554158028,0.7269155960107899,1 234 || 741,472 || 741
+139,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.5937925491505348,0.7378012404712139,1 234 || 741,472 || 741
+139,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.6042509784950245,0.720995965619988,1 234 || 741,472 || 741
+140,dempster,True,True,3,3,2,1.0,1.0,1.0,1.0,0.1587216358183137,1.4307777618013646,instructor of physics || british poet,british poet || instructor of physics
+140,pcr6,True,True,3,3,2,1.0,1.0,1.0,1.0,0.15870635596355787,1.4309310279137304,instructor of physics || british poet,british poet || instructor of physics
+140,pcr6_plus,True,True,3,3,2,1.0,1.0,1.0,1.0,0.1581951504449838,1.4264748960445837,instructor of physics || british poet,british poet || instructor of physics
+141,dempster,True,False,2,6,2,0.0,0.5,0.5,0.5,0.19151019672149197,0.4571763729520152,tennis || golf,baseball and football || tennis
+141,pcr6,True,False,2,6,2,0.0,0.5,0.5,0.5,0.20493869167684792,0.4887720782771373,tennis || golf,baseball and football || tennis
+141,pcr6_plus,True,False,2,6,2,0.0,0.5,0.5,0.5,0.17344509038427897,0.42264517883277963,tennis || golf,baseball and football || tennis
+142,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.3439783102919968,0.16060064419000342,pakistan || peru,pakistan || peru
+142,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.33282164159598165,0.1741044160921229,pakistan || peru,pakistan || peru
+142,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.346561228461832,0.15654694791612894,pakistan || peru,pakistan || peru
+143,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.1498732388205487,0.3507212670218573,3 292 people || 533 people,3 292 people || 533 people
+143,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.13069765903072927,0.3872205520968863,3 292 people || 533 people,3 292 people || 533 people
+143,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.14394156501645827,0.3227003058172495,3 292 people || 533 people,3 292 people || 533 people
+144,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.45703066798548614,0.028994566252014953,2 355 || 681,2 355 || 681
+144,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.3561311784087075,0.126528797237836,2 355 || 681,2 355 || 681
+144,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.42689257185976504,0.023228395130828132,2 355 || 681,2 355 || 681
+145,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0012146413632403842,0.8873232993252292,underwear manufacturers || porcelain headed bisque dolls,porcelain headed bisque dolls || underwear manufacturers
+145,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0012101556578431908,0.8873740016870127,underwear manufacturers || porcelain headed bisque dolls,porcelain headed bisque dolls || underwear manufacturers
+145,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0012245362958812032,0.8847640133297227,underwear manufacturers || porcelain headed bisque dolls,porcelain headed bisque dolls || underwear manufacturers
+146,dempster,True,True,4,6,2,0.0,0.5,0.5,0.5,0.7923078353122394,0.528847437915854,1966 || 2004,1866 || 2004
+146,pcr6,True,True,4,6,2,0.0,0.5,0.5,0.5,0.5466799770040115,0.9394315230077137,1966 || 2004,1866 || 2004
+146,pcr6_plus,True,True,4,6,2,0.0,0.5,0.5,0.5,0.599694475060543,0.6527566883544107,1966 || 2004,1866 || 2004
+147,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.21242336316046082,0.27133691190806264,40 147 || 120 000,120 000 || 40 147
+147,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.1831706831778961,0.3214037340633385,40 147 || 120 000,120 000 || 40 147
+147,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.2174146592068507,0.24717334092960314,40 147 || 120 000,120 000 || 40 147
+148,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16540109593906632,0.999889500585718,spanish tropical || classical music,spanish top 40 chr || spanish tropical
+148,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16458073230238596,1.02620370621972,spanish tropical || classical music,spanish top 40 chr || spanish tropical
+148,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16573485981893238,0.9804443004270684,spanish tropical || classical music,spanish top 40 chr || spanish tropical
+149,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.024878992197892018,0.8499753290958394,shae jones || the go go s,shae jones || the go go s
+149,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.028536441520323978,0.8877166014297393,shae jones || the go go s,shae jones || the go go s
+149,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.02349299097783989,0.8183654576049638,shae jones || the go go s,shae jones || the go go s
+150,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.05144329560194401,0.5942225835793039,missy misdemeanor elliott || peter gabriel,missy misdemeanor elliott || peter gabriel
+150,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.049918173455136806,0.6003153739765779,missy misdemeanor elliott || peter gabriel,missy misdemeanor elliott || peter gabriel
+150,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.05507990094107654,0.5791715379680477,missy misdemeanor elliott || peter gabriel,missy misdemeanor elliott || peter gabriel
+151,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.44870412730033593,0.04787629939209792,19 august 1948 || 21 december 1924,19 august 1948 || 21 december 1924
+151,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.42869489173960595,0.06709293815741577,19 august 1948 || 21 december 1924,19 august 1948 || 21 december 1924
+151,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.4467622424851598,0.045697372585305145,19 august 1948 || 21 december 1924,19 august 1948 || 21 december 1924
+152,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.7875285137004839,0.5079877146456739,belorusskaya line || koltsevaya line,koltsevaya line || zamoskvoretskaya line
+152,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.7357403525612913,0.571325223998564,belorusskaya line || koltsevaya line,koltsevaya line || zamoskvoretskaya line
+152,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.7637634121459977,0.528633555879855,belorusskaya line || koltsevaya line,koltsevaya line || zamoskvoretskaya line
+153,dempster,True,False,2,5,2,0.0,0.5,0.5,0.5,0.8704530647026442,0.46284060167310176,miles davis || john coltrane,john coltrane || the boo radleys
+153,pcr6,True,False,2,5,2,0.0,0.5,0.5,0.5,0.8443447967444053,0.49649565094830683,miles davis || john coltrane,john coltrane || the boo radleys
+153,pcr6_plus,True,False,2,5,2,0.0,0.5,0.5,0.5,0.9034032164566907,0.42048216457462173,miles davis || john coltrane,john coltrane || the boo radleys
+154,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0015503077546812247,0.8810235169419712,1981 || 1989,1981 || 1989
+154,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0015419377400188912,0.8813189035812786,1981 || 1989,1981 || 1989
+154,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0015977568248678603,0.8782684623147771,1981 || 1989,1981 || 1989
+155,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.11176387430117676,0.5999283296630487,mike oldfield || ian brown,ian brown || mike oldfield
+155,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.10332625934454305,0.686800945890578,mike oldfield || ian brown,ian brown || mike oldfield
+155,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.1049122311968014,0.5508946945500606,mike oldfield || ian brown,ian brown || mike oldfield
+156,dempster,True,True,4,6,2,0.0,0.5,0.5,0.5,0.3549266330258576,0.21049904057325663,anthrax || metallica,anthrax || joe jackson
+156,pcr6,True,True,4,6,2,0.0,0.5,0.5,0.5,0.22934730310345702,0.9358935984872719,anthrax || metallica,anthrax || joe jackson
+156,pcr6_plus,True,True,4,6,2,0.0,0.5,0.5,0.5,0.3383505241273984,0.41424321423446636,anthrax || metallica,anthrax || joe jackson
+157,dempster,True,True,3,5,2,1.0,1.0,1.0,1.0,0.0484267570985589,1.1497271617544271,april 12 2011 || may 1 2012,april 12 2011 || may 1 2012
+157,pcr6,True,True,3,5,2,1.0,1.0,1.0,1.0,0.04910631010640449,1.153299217665958,april 12 2011 || may 1 2012,april 12 2011 || may 1 2012
+157,pcr6_plus,True,True,3,5,2,1.0,1.0,1.0,1.0,0.04795301868062896,1.1427972187562685,april 12 2011 || may 1 2012,april 12 2011 || may 1 2012
+158,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.15552904245146512,0.12476927483783146,cleombrotus ii || cleonymus,cleombrotus ii || cleonymus
+158,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.060424744481505074,0.39363509376017053,cleombrotus ii || cleonymus,cleombrotus ii || cleonymus
+158,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.1093898129378852,0.06526872697343646,cleombrotus ii || cleonymus,cleombrotus ii || cleonymus
+159,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.3399093169721449,0.11028303544899934,singer || badminton player,badminton player || singer
+159,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.2380908232404182,0.24701369559750797,singer || badminton player,badminton player || singer
+159,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.32716737797812234,0.08798793756844538,singer || badminton player,badminton player || singer
+160,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16038081406597776,0.3274948502199931,wolfgang amadeus mozart || ludwig van beethoven,johannes brahms || wolfgang amadeus mozart
+160,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2513379529938872,0.906443941025047,ludwig van beethoven || johannes brahms,johannes brahms || wolfgang amadeus mozart
+160,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3805223453667854,0.3301640049661428,ludwig van beethoven || johannes brahms,johannes brahms || wolfgang amadeus mozart
+162,dempster,True,False,2,4,2,0.0,0.5,0.5,0.5,0.014579781229590461,0.16681314335293052,basketball player || professional chef,basketball player || writer
+162,pcr6,True,False,2,4,2,0.0,0.5,0.5,0.5,0.015480282077198471,0.17196174078107962,basketball player || professional chef,basketball player || writer
+162,pcr6_plus,True,False,2,4,2,0.0,0.5,0.5,0.5,0.014349065855489875,0.16518808000328433,basketball player || professional chef,basketball player || writer
+163,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16832726690848207,1.0252469121204237,long || about 100 square miles,about in size || long
+163,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.16726404479050092,1.0394357701999,long || about 100 square miles,about in size || long
+163,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.17168762321019343,0.9971719640650271,long || about 100 square miles,about in size || long
+164,dempster,True,False,2,4,2,0.0,0.5,0.5,0.5,1.612053799170775,0.183298946337157,professional basketball player || operatic mezzo soprano,operatic mezzo soprano || painter and artist
+164,pcr6,True,False,2,4,2,0.0,0.5,0.5,0.5,1.5718081374090593,0.20618075539652442,professional basketball player || operatic mezzo soprano,operatic mezzo soprano || painter and artist
+164,pcr6_plus,True,False,2,4,2,0.0,0.5,0.5,0.5,1.624762409099336,0.1751635313216733,professional basketball player || operatic mezzo soprano,operatic mezzo soprano || painter and artist
+166,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.03284454545737675,0.23662598343977032,baseball || american football,american football || baseball
+166,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.016779909641272815,0.42554607208139617,baseball || american football,american football || baseball
+166,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.029161169125165802,0.1530297564264915,baseball || american football,american football || baseball
+167,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.18998521554883113,0.3607941325249665,film || novel,film || novel
+167,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.18402260624704742,0.3708300097856975,film || novel,film || novel
+167,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.19343547018350749,0.35377977791988846,film || novel,film || novel
+168,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.35452843789149396,0.19642871132201223,twelve gauge valentine || jay z,timbaland || twelve gauge valentine
+168,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2716941080523756,0.39910246281753897,twelve gauge valentine || jay z,timbaland || twelve gauge valentine
+168,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3256650017633136,0.23761835512368232,twelve gauge valentine || jay z,timbaland || twelve gauge valentine
+169,dempster,True,True,4,6,2,1.0,1.0,1.0,1.0,0.16421722522815793,0.5245258433231398,george washington short || william a,george washington short || william a
+169,pcr6,True,True,4,6,2,1.0,1.0,1.0,1.0,0.14422492133004916,0.6476886632048116,george washington short || william a,george washington short || william a
+169,pcr6_plus,True,True,4,6,2,1.0,1.0,1.0,1.0,0.14556157915924675,0.5678288607771994,george washington short || william a,george washington short || william a
+171,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0017372488318475809,0.9054056316338537,1893 1896 || 1874,1874 || 1893 1896
+171,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0017348817915794899,0.9054317272187123,1893 1896 || 1874,1874 || 1893 1896
+171,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.0017635790158250849,0.9040392974490526,1893 1896 || 1874,1874 || 1893 1896
+173,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.2871424779838741,0.16159076025693733,studio album || film,film || studio album
+173,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.20290910483879449,0.37256486085014856,studio album || film,film || studio album
+173,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.21122382805998074,0.3080565735796046,studio album || film,film || studio album
+175,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3726934278815909,0.863203627680536,leonardo da vinci || caravaggio,caravaggio || massimo stanzione
+175,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3431865185295193,0.9362983277255799,leonardo da vinci || caravaggio,caravaggio || massimo stanzione
+175,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.36004022411293707,0.8459351617928645,leonardo da vinci || caravaggio,caravaggio || massimo stanzione
+176,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.03683814733320478,0.6693211894298436,placebo || sandra bernhard,placebo || sandra bernhard
+176,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.035970688472432344,0.6730542522016941,placebo || sandra bernhard,placebo || sandra bernhard
+176,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.03768303567522438,0.6605204059239959,placebo || sandra bernhard,placebo || sandra bernhard
+177,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.00577945940915795,0.8345231533185266,doro || slaughter,doro || slaughter
+177,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.00572673739543968,0.8351785034493243,doro || slaughter,doro || slaughter
+177,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.005769744341394099,0.8305859002139458,doro || slaughter,doro || slaughter
+178,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,6.0726344975482524e-06,0.9140498276256042,august 26 1849 || september 22 1804,august 26 1849 || september 22 1804
+178,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,6.322415981389962e-06,0.9122097177804473,august 26 1849 || september 22 1804,august 26 1849 || september 22 1804
+178,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,6.322415981389962e-06,0.9122097177804473,august 26 1849 || september 22 1804,august 26 1849 || september 22 1804
+180,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.47518925506199056,0.008936669656067387,texas || missouri,missouri || texas
+180,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.191955727830048,0.2785821599243879,texas || missouri,missouri || texas
+180,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.28661135580889247,0.004727454062900388,texas || missouri,missouri || texas
+181,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.1933344497123219,0.2665801420094934,a film || a novel,a film || a novel
+181,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.15163753428990107,0.4259180844699306,a film || a novel,a film || a novel
+181,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.18698808381339588,0.2544617934457658,a film || a novel,a film || a novel
+182,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,1.1941144443739018,0.09948764689728608,1895 || 1912,1874 || 1912
+182,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.7376198972348456,0.5538903354696748,1895 || 1912,1874 || 1912
+182,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,1.045333500900666,0.058406754982284384,1895 || 1912,1874 || 1912
+183,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.05251859613474394,0.6623101413575754,miyavi || t ara,miyavi || t ara
+183,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.05198483443862791,0.6662099286628298,miyavi || t ara,miyavi || t ara
+183,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.052763735787771646,0.6614958062905129,miyavi || t ara,miyavi || t ara
+184,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.011116579650471643,0.41160177325428726,70 || 4,4 || 70
+184,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.00822966883997439,0.47349091022466794,70 || 4,4 || 70
+184,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.009709093945286549,0.3439244589755317,70 || 4,4 || 70
+185,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.0025248430249970285,0.8196434677089367,jon hewitt || brian trenchard smith,brian trenchard smith || jon hewitt
+185,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.0024985540033862254,0.8205774292946697,jon hewitt || brian trenchard smith,brian trenchard smith || jon hewitt
+185,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.002693553229200396,0.812830868146497,jon hewitt || brian trenchard smith,brian trenchard smith || jon hewitt
+186,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.4336187606042917,0.02279272953286478,volleyball || middle distance running events,middle distance running events || volleyball
+186,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.15095435740759683,0.3253966965774256,volleyball || middle distance running events,middle distance running events || volleyball
+186,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.22702432411066398,0.011617732126934113,volleyball || middle distance running events,middle distance running events || volleyball
+187,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.024632309261878316,0.24125844281678666,3 998 || 11 012,11 012 || 3 998
+187,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.011427526340217828,0.4277485413215505,3 998 || 11 012,11 012 || 3 998
+187,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.014899864999447532,0.15610400025378163,3 998 || 11 012,11 012 || 3 998
+188,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.018557431016483602,0.7172905470472646,29 march 1814 || march 16 1818,29 march 1814 || march 16 1818
+188,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.01834643377739083,0.7179425529882477,29 march 1814 || march 16 1818,29 march 1814 || march 16 1818
+188,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.01924850395050094,0.706745443684023,29 march 1814 || march 16 1818,29 march 1814 || march 16 1818
+189,dempster,True,False,2,4,1,0.0,0.0,0.0,0.0,1.8924432240722084,0.054521537476084764,urdu language,punjabi language
+189,pcr6,True,False,2,4,1,0.0,0.0,0.0,0.0,1.8924432240722084,0.054521537476084764,urdu language,punjabi language
+189,pcr6_plus,True,False,2,4,1,0.0,0.0,0.0,0.0,1.8924432240722084,0.054521537476084764,urdu language,punjabi language
+190,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3893477455417844,0.13119740163512408,july 26 1918 || january 1 1920,july 26 1918 || november 1990
+190,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.2580083753235249,0.4348753038486026,july 26 1918 || january 1 1920,july 26 1918 || november 1990
+190,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.2817907241276738,0.3252278769274794,july 26 1918 || january 1 1920,july 26 1918 || november 1990
+191,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007122720215427282,0.962256867603689,county owned public use || city owned public use,city owned public use || county owned public use
+191,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007122720215427282,0.962256867603689,county owned public use || city owned public use,city owned public use || county owned public use
+191,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007122720215427282,0.962256867603689,county owned public use || city owned public use,city owned public use || county owned public use
+192,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.15533353888534218,0.13743902409388709,friuli venezia giulia || lombardy,friuli venezia giulia || lombardy
+192,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0605097362281155,0.3765685098208486,friuli venezia giulia || lombardy,friuli venezia giulia || lombardy
+192,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.09033403126323461,0.07685678603112293,friuli venezia giulia || lombardy,friuli venezia giulia || lombardy
+193,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.2215583872062615,0.2433948908251638,1856 || 1920,1856 || 1875
+193,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.24115204957996578,0.8190992834932108,1920 || 1856,1856 || 1875
+193,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.2892042218452075,0.49458250707435447,1920 || 1856,1856 || 1875
+194,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4591556559134777,0.9368104365068173,between 1881 1882 || between 1861 1862,1850 || between 1861 1862
+194,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.45073516201367564,0.9505429491202818,between 1881 1882 || between 1861 1862,1850 || between 1861 1862
+194,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.4587313820486877,0.9371490918011217,between 1881 1882 || between 1861 1862,1850 || between 1861 1862
+196,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.002929803305322779,0.9234519326785742,paris || lyon,lyon || paris
+196,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.002929803305322779,0.9234519326785742,paris || lyon,lyon || paris
+196,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.002929803305322779,0.9234519326785742,paris || lyon,lyon || paris
+197,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.002635619762072852,0.9273966975672201,1904 || january 1 1877,1904 || january 1 1877
+197,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.002635619762072852,0.9273966975672201,1904 || january 1 1877,1904 || january 1 1877
+197,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.002635619762072852,0.9273966975672201,1904 || january 1 1877,1904 || january 1 1877
+198,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,1.3574064565675215,0.08423602904040568,ice hockey || cross country skiing,cross country skiing || weightlifting
+198,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,1.2516216842307093,0.17267553889350215,ice hockey || cross country skiing,cross country skiing || weightlifting
+198,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,1.3301907978805563,0.10106040156543206,ice hockey || cross country skiing,cross country skiing || weightlifting
+199,dempster,True,True,3,4,2,1.0,1.0,1.0,1.0,0.0640982124310443,1.1958219052508499,around 8 400 || 37 935,37 935 || around 8 400
+199,pcr6,True,True,3,4,2,1.0,1.0,1.0,1.0,0.06414720543703424,1.1961967402106393,around 8 400 || 37 935,37 935 || around 8 400
+199,pcr6_plus,True,True,3,4,2,1.0,1.0,1.0,1.0,0.06397341187531148,1.1953939640484181,around 8 400 || 37 935,37 935 || around 8 400
+200,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,9.246783437076583e-05,0.9318778908259615,june 11 1963 || 1900,1900 || june 11 1963
+200,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,9.218244079512793e-05,0.9318889903711011,june 11 1963 || 1900,1900 || june 11 1963
+200,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,9.017495560754708e-05,0.9307652992414525,june 11 1963 || 1900,1900 || june 11 1963
+201,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.3053290329830472,0.21984006335145664,leila ross wilburn || willis irwin,leila ross wilburn || willis irwin
+201,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.28535486796455967,0.26247121550692404,leila ross wilburn || willis irwin,leila ross wilburn || willis irwin
+201,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.29074454535672706,0.24382861021476335,leila ross wilburn || willis irwin,leila ross wilburn || willis irwin
+202,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0031529039901829806,0.835965698854153,show of hands || roxy music,roxy music || show of hands
+202,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0031137155422906668,0.8367778409454304,show of hands || roxy music,roxy music || show of hands
+202,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0030763170558027165,0.8308468747912107,show of hands || roxy music,roxy music || show of hands
+203,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.41261141263794543,0.08308388831730788,1858 || 1860,1858 || 1860
+203,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.38668114275377635,0.11127234742997301,1858 || 1860,1858 || 1860
+203,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.4117287466331722,0.07937874937043073,1858 || 1860,1858 || 1860
+204,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2507940232763935,0.5317885500544904,9 february 1936 || 12 march 1955,9 february 1936 || 9 october 1951
+204,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.23163867464697313,0.833152952928574,12 march 1955 || 9 february 1936,9 february 1936 || 9 october 1951
+204,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.30865128188592017,0.4426659522383619,12 march 1955 || 9 february 1936,9 february 1936 || 9 october 1951
+205,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.06423599886028564,0.6301169377290256,fall of 2010 || september 2010,fall of 2010 || september 2010
+205,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.06389364865334207,0.6310967740555063,fall of 2010 || september 2010,fall of 2010 || september 2010
+205,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.0648599107578281,0.6280384459839231,fall of 2010 || september 2010,fall of 2010 || september 2010
+206,dempster,True,False,2,6,2,0.0,0.5,0.5,0.5,0.41721667040178784,0.9134732293852817,film || radio,film || series tv
+206,pcr6,True,False,2,6,2,0.0,0.5,0.5,0.5,0.41721667040178784,0.9134732293852817,film || radio,film || series tv
+206,pcr6_plus,True,False,2,6,2,0.0,0.5,0.5,0.5,0.41721667040178784,0.9134732293852817,film || radio,film || series tv
+207,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.0905302910505042,1.1067071024228685,quicksand || brad,brad || quicksand
+207,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.09126668510536248,1.1144129222383976,quicksand || brad,brad || quicksand
+207,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.08878453294909017,1.088397364493038,quicksand || brad,brad || quicksand
+208,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,8.395358761359731e-05,0.3649563559282057,2 764 people || 837 people,2 764 people || 837 people
+208,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,2.813380875123037e-05,0.46410698690063623,2 764 people || 837 people,2 764 people || 837 people
+208,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,3.80257336015916e-05,0.28598513866510894,837 people || 2 764 people,2 764 people || 837 people
+209,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.1862759442721703,1.4142478567012762,water polo player || chef,trombonist || water polo player
+209,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.18620951673528613,1.414667111200828,water polo player || chef,trombonist || water polo player
+209,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.18629315101017543,1.4114037520591085,water polo player || chef,trombonist || water polo player
+210,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.00010583969221793311,0.9719396143687976,34 753 || 31 250,31 250 || 34 753
+210,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.00010691632956499119,0.9717957092141827,34 753 || 31 250,31 250 || 34 753
+210,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.00010691632956499119,0.9717957092141827,34 753 || 31 250,31 250 || 34 753
+211,dempster,True,True,3,3,2,1.0,1.0,1.0,1.0,0.05778924180205839,0.770652494381468,january 24 1899 || july 14 1868,january 24 1899 || july 14 1868
+211,pcr6,True,True,3,3,2,1.0,1.0,1.0,1.0,0.058388975161582646,0.7778172946403378,january 24 1899 || july 14 1868,january 24 1899 || july 14 1868
+211,pcr6_plus,True,True,3,3,2,1.0,1.0,1.0,1.0,0.06107090684469787,0.7566565299436404,january 24 1899 || july 14 1868,january 24 1899 || july 14 1868
+212,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.3206024901396188,0.1813557067255359,55 145 || 150 699,150 699 || 55 145
+212,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.30193567394374166,0.20506256848057633,55 145 || 150 699,150 699 || 55 145
+212,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.32355831187074613,0.17439052258717314,55 145 || 150 699,150 699 || 55 145
+213,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.502083523746718,0.5884477200568704,january 2005 || fall of 1964,august 1998 || fall of 1964
+213,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.41762205026222976,0.760905258470975,january 2005 || fall of 1964,august 1998 || fall of 1964
+213,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.45882500399710957,0.5586563377144232,january 2005 || fall of 1964,august 1998 || fall of 1964
+214,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.46420420177851796,0.06209543683400905,all girls || co ed,all boys || all girls
+214,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.4339841250132248,0.1104136986571984,all girls || co ed,all boys || all girls
+214,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.4409134381205376,0.09488661371900445,all girls || co ed,all boys || all girls
+215,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.020138452467886456,0.7222827371970041,about 1898 || 1829,1829 || about 1898
+215,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.0197283454458086,0.7246232364241365,about 1898 || 1829,1829 || about 1898
+215,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.020497051044498,0.7131862665899628,about 1898 || 1829,1829 || about 1898
+217,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0005585771078079275,0.9486022166304617,tennis || golf,golf || tennis
+217,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0005667534473956463,0.9482212252313219,tennis || golf,golf || tennis
+217,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0005667534473956463,0.9482212252313219,tennis || golf,golf || tennis
+218,dempster,True,True,4,5,2,1.0,1.0,1.0,1.0,0.20543970576017523,0.31981158649168584,5 390 || 6 669 people,5 390 || 6 669 people
+218,pcr6,True,True,4,5,2,1.0,1.0,1.0,1.0,0.16723819283691305,0.4760355501745191,5 390 || 6 669 people,5 390 || 6 669 people
+218,pcr6_plus,True,True,4,5,2,1.0,1.0,1.0,1.0,0.17412771221251633,0.394980284946449,5 390 || 6 669 people,5 390 || 6 669 people
+219,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.19607933125039267,0.3737742719268193,2 104 people || 2 051 people,2 051 people || 2 104 people
+219,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.19607933125039267,0.3737742719268193,2 104 people || 2 051 people,2 051 people || 2 104 people
+219,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.19607933125039267,0.3737742719268193,2 104 people || 2 051 people,2 051 people || 2 104 people
+220,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.38794193284833595,0.1131068358838846,avdira || adra,adra || avdira
+220,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.37484982061764915,0.12790571532693956,avdira || adra,adra || avdira
+220,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.3890921036609941,0.11049468380934432,avdira || adra,adra || avdira
+221,dempster,True,True,4,6,2,0.0,0.5,0.5,0.5,0.2964427518266877,1.6369637284471774,john coltrane || shalamar,miles davis || shalamar
+221,pcr6,True,True,4,6,2,0.0,0.5,0.5,0.5,0.2956897776001345,1.6417090369648175,john coltrane || shalamar,miles davis || shalamar
+221,pcr6_plus,True,True,4,6,2,0.0,0.5,0.5,0.5,0.2945520054602405,1.620540093780828,john coltrane || shalamar,miles davis || shalamar
+222,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.033321627010439336,0.6430358932888904,a butterfly zoo || a domestic building,a butterfly zoo || a domestic building
+222,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.032283348963322994,0.6478317442284401,a butterfly zoo || a domestic building,a butterfly zoo || a domestic building
+222,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.03464514014669678,0.6281916353560574,a butterfly zoo || a domestic building,a butterfly zoo || a domestic building
+223,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.48823806562644834,0.004749476644483633,generalmajor || admiral,generalmajor || lieutenant general
+223,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.17039226826857545,0.6302371566750536,generalmajor || admiral,generalmajor || lieutenant general
+223,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.17631749968867205,0.57814767165759,generalmajor || admiral,generalmajor || lieutenant general
+224,dempster,True,False,2,3,2,0.0,0.5,0.5,0.5,0.5242745728780988,0.026921313801503702,cricket || rugby league,football soccer || rugby league
+224,pcr6,True,False,2,3,2,0.0,0.5,0.5,0.5,0.5034134530126761,0.3112671756503164,cricket || rugby league,football soccer || rugby league
+224,pcr6_plus,True,False,2,3,2,0.0,0.5,0.5,0.5,0.5038493827321309,0.0027505223083061224,cricket || rugby league,football soccer || rugby league
+225,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.5064388404151225,0.27791023343117466,forward || defensive midfielder,defensive midfielder || winger
+225,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.31956893163353667,0.7985790916451956,forward || defensive midfielder,defensive midfielder || winger
+225,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3394576623206723,0.5914104085727481,forward || defensive midfielder,defensive midfielder || winger
+226,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.01768612787864151,0.8119248667226764,july 4 2000 || june 30 2009,july 4 2000 || june 30 2009
+226,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.01768612787864151,0.8119248667226764,july 4 2000 || june 30 2009,july 4 2000 || june 30 2009
+226,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.01768612787864151,0.8119248667226764,july 4 2000 || june 30 2009,july 4 2000 || june 30 2009
+227,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.08423146889749611,0.5564399900130415,hilario davide jr || jejomar binay,hilario davide jr || jejomar binay
+227,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.08254377824620845,0.5608553596493066,hilario davide jr || jejomar binay,hilario davide jr || jejomar binay
+227,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.08645960470579288,0.549458072485842,hilario davide jr || jejomar binay,hilario davide jr || jejomar binay
+229,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3958606153688584,0.3595447224158572,24 february 1919 || 12 march 1920,24 february 1919 || march 4 1918
+229,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.2983168791335619,0.6972419991558342,12 march 1920 || 24 february 1919,24 february 1919 || march 4 1918
+229,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3834723580155345,0.24089609060628697,12 march 1920 || 24 february 1919,24 february 1919 || march 4 1918
+230,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.06665795575662804,0.5744366939481199,american chef || american actor,american actor || american chef
+230,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.06446694487724197,0.5810193094782669,american chef || american actor,american actor || american chef
+230,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.06833549800861552,0.5627330506967622,american chef || american actor,american actor || american chef
+231,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0004230744151150805,0.9622565355685033,telenovela || film,film || telenovela
+231,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0004262952404449968,0.9621119522267954,telenovela || film,film || telenovela
+231,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0004262952404449968,0.9621119522267954,telenovela || film,film || telenovela
+232,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.1142656959521041,0.29934830374990873,democrat || republican,democrat || republican
+232,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.0914335784729299,0.3679908467861502,democrat || republican,democrat || republican
+232,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.12777262877159887,0.2455431285719861,democrat || republican,democrat || republican
+233,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.1574781322539088,0.8826058494886689,1861 || 1885,1859 || 1861
+233,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.15477958939501268,0.9251213780359098,1861 || 1885,1859 || 1861
+233,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.15888548482013262,0.8447386075362798,1861 || 1885,1859 || 1861
+234,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.24007345609907554,0.32933834201804457,the who || the killers,the killers || the who
+234,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.24007345609907554,0.32933834201804457,the who || the killers,the killers || the who
+234,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.24007345609907554,0.32933834201804457,the who || the killers,the killers || the who
+235,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.04627346001614917,0.4776760482259059,321 493 inhabitants || 16 337 inhabitants,16 337 inhabitants || 321 493 inhabitants
+235,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.039739206326415394,0.5129289730276657,321 493 inhabitants || 16 337 inhabitants,16 337 inhabitants || 321 493 inhabitants
+235,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.04859863380496941,0.43649284546385375,321 493 inhabitants || 16 337 inhabitants,16 337 inhabitants || 321 493 inhabitants
+236,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.028345462886301347,0.6388973151113808,1872 || 1888,1872 || 1888
+236,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.027201254336561533,0.6459756566878847,1872 || 1888,1872 || 1888
+236,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0304938025603586,0.620987777569933,1872 || 1888,1872 || 1888
+237,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,9.89390722485595e-08,0.9276492326339117,politician and writer || politician and lawyer,politician and lawyer || politician and writer
+237,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,1.0380559093898664e-07,0.9276566665561461,politician and writer || politician and lawyer,politician and lawyer || politician and writer
+237,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,2.2146852749154718e-07,0.9263424671364947,politician and writer || politician and lawyer,politician and lawyer || politician and writer
+238,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.27751573969786003,0.2509843997499891,319 || 5 000,2 652 || 319
+238,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.20620843535176492,0.7046937624634184,319 || 5 000,2 652 || 319
+238,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.26191716361492257,0.3202561168392923,319 || 5 000,2 652 || 319
+239,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007484248604652859,0.9613108578418884,peter murphy || gin wigmore,gin wigmore || peter murphy
+239,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007484248604652859,0.9613108578418884,peter murphy || gin wigmore,gin wigmore || peter murphy
+239,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007484248604652859,0.9613108578418884,peter murphy || gin wigmore,gin wigmore || peter murphy
+240,dempster,True,False,2,6,2,0.0,0.5,0.5,0.5,1.3192456629504086,0.12645978164920574,girls || boys,all girls || boys
+240,pcr6,True,False,2,6,2,0.0,0.5,0.5,0.5,0.9869169115096336,0.3869188146997007,girls || boys,all girls || boys
+240,pcr6_plus,True,False,2,6,2,0.0,0.5,0.5,0.5,1.1807791553585714,0.07276509477669622,girls || boys,all girls || boys
+241,dempster,True,True,4,5,2,0.0,0.0,0.0,0.0,1.4036938143376838,0.08699549613199847,1855 || 1857,1743 || 1867
+241,pcr6,True,True,4,5,2,0.0,0.0,0.0,0.0,0.9304325252050178,0.5723899861976561,1855 || 1857,1743 || 1867
+241,pcr6_plus,True,True,4,5,2,0.0,0.0,0.0,0.0,1.0322224191387204,0.37280549496544757,1855 || 1857,1743 || 1867
+242,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.3581891146695325,0.14260539364711758,railway || motorway,motorway || railway
+242,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.3401986736542799,0.1639778298788909,railway || motorway,motorway || railway
+242,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.35965654516674705,0.1380677072892435,railway || motorway,motorway || railway
+243,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007764293687999951,0.9427242855329182,greg koch || joey cape,greg koch || joey cape
+243,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007879811548260978,0.942292571141735,greg koch || joey cape,greg koch || joey cape
+243,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0007879811548260978,0.942292571141735,greg koch || joey cape,greg koch || joey cape
+244,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.1533353054923766,0.4462215145161802,chess || cycling,chess || cycling
+244,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.1533353054923766,0.4462215145161802,chess || cycling,chess || cycling
+244,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.1533353054923766,0.4462215145161802,chess || cycling,chess || cycling
+245,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.059039379551287505,0.5171719875545666,andy williams || johnny mathis,andy williams || johnny mathis
+245,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.05460705722316439,0.5367659033911668,andy williams || johnny mathis,andy williams || johnny mathis
+245,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.06857253241490309,0.48992615362088904,andy williams || johnny mathis,andy williams || johnny mathis
+246,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.12947210136503265,0.4900659141380001,mily balakirev || ludwig van beethoven,ludwig van beethoven || mily balakirev
+246,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.12938475178606726,0.4902376885988824,mily balakirev || ludwig van beethoven,ludwig van beethoven || mily balakirev
+246,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.12960860169807312,0.48979392288110957,mily balakirev || ludwig van beethoven,ludwig van beethoven || mily balakirev
+248,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0017930447095400926,0.7961895081948851,photographer || catholic priest,catholic priest || photographer
+248,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0017551576822474524,0.798157964705554,photographer || catholic priest,catholic priest || photographer
+248,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0018392315437913065,0.7868130897898512,photographer || catholic priest,catholic priest || photographer
+249,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,1.639023397175996e-05,0.06520859334451214,1891 || 1968,1891 || 1968
+249,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.00010034885568911961,0.4230003976539638,1968 || 1891,1891 || 1968
+249,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,9.622019125388097e-05,0.014990388182926218,1968 || 1891,1891 || 1968
+250,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.43962986048332164,0.9616796804405986,bob evans || taylor swift,bob evans || mark wills
+250,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.417800153168813,0.9939791855996628,bob evans || taylor swift,bob evans || mark wills
+250,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.4386937674332325,0.9609233819157824,bob evans || taylor swift,bob evans || mark wills
+251,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.03132562660644662,0.6296415879496888,news talk information || news talk radio format,news talk information || news talk radio format
+251,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.029885953116824,0.6373051724016435,news talk information || news talk radio format,news talk information || news talk radio format
+251,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.03210862566928349,0.6115483674651081,news talk information || news talk radio format,news talk information || news talk radio format
+252,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3206875900841193,0.24532146864438606,10 || 25,10 || 15
+252,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.24965943658301773,0.43052694642124884,10 || 25,10 || 15
+252,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.33033366588098806,0.20282642867394768,10 || 25,10 || 15
+253,dempster,True,True,3,4,2,1.0,1.0,1.0,1.0,0.12194288651627884,1.2618295168488465,havana cuba || san antonio texas,havana cuba || san antonio texas
+253,pcr6,True,True,3,4,2,1.0,1.0,1.0,1.0,0.12194288651627884,1.2618295168488465,havana cuba || san antonio texas,havana cuba || san antonio texas
+253,pcr6_plus,True,True,3,4,2,1.0,1.0,1.0,1.0,0.12194288651627884,1.2618295168488465,havana cuba || san antonio texas,havana cuba || san antonio texas
+254,dempster,True,True,4,6,2,0.0,0.0,0.0,0.0,0.9973104300243029,0.9221934224110333,3 564 || 1 234,495 || 612
+254,pcr6,True,True,4,6,2,0.0,0.0,0.0,0.0,0.5298915784754725,1.137754458746299,3 564 || 1 234,495 || 612
+254,pcr6_plus,True,True,4,6,2,0.0,0.0,0.0,0.0,0.6502372020993317,0.7810774568155984,3 564 || 1 234,495 || 612
+255,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.014575819399400745,0.6912359871362417,snake river || green river,green river || snake river
+255,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.014149392469808866,0.6962226411001087,snake river || green river,green river || snake river
+255,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.01663040647922668,0.6750768880989733,snake river || green river,green river || snake river
+256,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.1534119264794659,1.3713682418829802,drama || comedy,documentary film || drama
+256,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.15348543560521716,1.3724401865341684,drama || comedy,documentary film || drama
+256,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.15352956016621205,1.3638757848777554,drama || comedy,documentary film || drama
+257,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.00784018121431187,0.8747787460986605,16 clubs || over 4 000,16 clubs || over 4 000
+257,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.00784018121431187,0.8747787460986605,16 clubs || over 4 000,16 clubs || over 4 000
+257,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.00784018121431187,0.8747787460986605,16 clubs || over 4 000,16 clubs || over 4 000
+258,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.04383899922711303,0.029246448240611646,28 april 1882 || 22 october 1828,22 october 1828 || 28 april 1882
+258,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.07073905051832104,0.9386200487025256,28 april 1882 || 22 october 1828,22 october 1828 || 28 april 1882
+258,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.05329384343665097,0.7819801336979217,28 april 1882 || 22 october 1828,22 october 1828 || 28 april 1882
+259,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0008249496387064746,0.9533515121016873,june 7 1924 || april 25 1942,april 25 1942 || june 7 1924
+259,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0008295793801363196,0.9532199847136789,june 7 1924 || april 25 1942,april 25 1942 || june 7 1924
+259,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0008295793801363196,0.9532199847136789,june 7 1924 || april 25 1942,april 25 1942 || june 7 1924
+260,dempster,True,False,2,2,2,1.0,1.0,1.0,1.0,0.00035585680071932894,0.9298415670196593,24 june 1630 || 16 april 1720,16 april 1720 || 24 june 1630
+260,pcr6,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0003662389649245264,0.928790134260255,24 june 1630 || 16 april 1720,16 april 1720 || 24 june 1630
+260,pcr6_plus,True,False,2,2,2,1.0,1.0,1.0,1.0,0.0003662389649245264,0.928790134260255,24 june 1630 || 16 april 1720,16 april 1720 || 24 june 1630
+261,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.1891688586877593,1.156534038313653,2009 || 2000,1996 || 2009
+261,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.18804846922736254,1.1689392017681977,2009 || 2000,1996 || 2009
+261,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.18747756180176522,1.120794001417214,2009 || 2000,1996 || 2009
+262,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.08991311027865156,0.3564087063000305,golf || tennis,golf || tennis
+262,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.0709902746240829,0.41669440796402885,golf || tennis,golf || tennis
+262,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.08814548895982502,0.30608617143694694,golf || tennis,golf || tennis
+263,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.16161724100923455,1.4072638040897552,early 1920s || early 1970,early 1920s || late 1964
+263,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.16161715363636708,1.4072664646684838,early 1920s || early 1970,early 1920s || late 1964
+263,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.16161344903118657,1.4072435099531018,early 1920s || early 1970,early 1920s || late 1964
+266,dempster,True,False,2,5,2,0.0,0.5,0.5,0.5,0.0343153891719858,0.23704232474137085,kenny loggins || taylor swift,blake shelton || kenny loggins
+266,pcr6,True,False,2,5,2,0.0,0.5,0.5,0.5,0.04001823152229892,0.25785413339014623,kenny loggins || taylor swift,blake shelton || kenny loggins
+266,pcr6_plus,True,False,2,5,2,0.0,0.5,0.5,0.5,0.03325671729337873,0.22804177401074258,kenny loggins || taylor swift,blake shelton || kenny loggins
+267,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.36606200529448807,0.5994476674876327,frankfort kentucky || springfield illinois,frankfort kentucky || rocky mount virginia
+267,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3481174924027357,0.6413283973676616,frankfort kentucky || springfield illinois,frankfort kentucky || rocky mount virginia
+267,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.36082753145960933,0.583069932681815,frankfort kentucky || springfield illinois,frankfort kentucky || rocky mount virginia
+268,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.005021271596646697,0.8997875097939713,thriller film || death metal band,death metal band || thriller film
+268,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.005021271596646697,0.8997875097939713,thriller film || death metal band,death metal band || thriller film
+268,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.005021271596646697,0.8997875097939713,thriller film || death metal band,death metal band || thriller film
+270,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.03070816123923671,0.5186599359659091,may 1758 || 1793,1793 || may 1758
+270,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.026577828748907694,0.5480611916592029,may 1758 || 1793,1793 || may 1758
+270,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.029733196232259056,0.47932064630780924,may 1758 || 1793,1793 || may 1758
+271,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3096720275945486,0.3087978153745215,838 || 1 200,726 || 838
+271,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.25798332654533407,0.4501251177752154,838 || 1 200,726 || 838
+271,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.32018991618926673,0.2686531486803893,838 || 1 200,726 || 838
+272,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.10834777912412491,0.46263686495759004,vice admiral || rear admiral,rear admiral || vice admiral
+272,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.10255285692410128,0.47703921845254316,vice admiral || rear admiral,rear admiral || vice admiral
+272,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.11438041559553713,0.44529624414062785,vice admiral || rear admiral,rear admiral || vice admiral
+273,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.02229827276446723,0.14466650325133276,dean martin || elvis presley,dean martin || elvis presley
+273,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.006357496743896223,0.4370833568629441,dean martin || elvis presley,dean martin || elvis presley
+273,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.010053108922192439,0.06614198704632909,dean martin || elvis presley,dean martin || elvis presley
+274,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,2.7092327518752662e-05,0.6632674658428929,an administrative district || a coal mine,a coal mine || an administrative district
+274,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,1.7091734605957583e-05,0.6707955525037812,an administrative district || a coal mine,a coal mine || an administrative district
+274,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,2.866255858420178e-06,0.6360945909395664,a coal mine || an administrative district,a coal mine || an administrative district
+275,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.018512520870914838,0.5363547168514603,jermaine jackson || family brown,family brown || jermaine jackson
+275,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.016856859341777164,0.5606929665308867,jermaine jackson || family brown,family brown || jermaine jackson
+275,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.023852622712941255,0.49527630056797656,jermaine jackson || family brown,family brown || jermaine jackson
+276,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.0003592253655643489,0.37306051239644744,gala || joyce sims,gala || joyce sims
+276,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.0004814583223532987,0.469333220097902,gala || joyce sims,gala || joyce sims
+276,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.0036165027889932017,0.2953960842976387,gala || joyce sims,gala || joyce sims
+278,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.45064907080663497,0.9484102284301928,belleville illinois || springfield illinois,belleville illinois || russellville kentucky
+278,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.4504762801548555,0.9486840706192479,belleville illinois || springfield illinois,belleville illinois || russellville kentucky
+278,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.45064980582137426,0.9480677591035558,belleville illinois || springfield illinois,belleville illinois || russellville kentucky
+279,dempster,True,False,2,5,2,1.0,1.0,1.0,1.0,0.004343906192313967,0.8699052455247676,douglas sirk || john m stahl,douglas sirk || john m stahl
+279,pcr6,True,False,2,5,2,1.0,1.0,1.0,1.0,0.004324692900447542,0.8701650770643902,douglas sirk || john m stahl,douglas sirk || john m stahl
+279,pcr6_plus,True,False,2,5,2,1.0,1.0,1.0,1.0,0.004378270197517368,0.867850900307023,douglas sirk || john m stahl,douglas sirk || john m stahl
+281,dempster,True,False,2,4,2,1.0,1.0,1.0,1.0,0.0592251509049943,0.47699276995804213,period drama film || documentary film,documentary film || period drama film
+281,pcr6,True,False,2,4,2,1.0,1.0,1.0,1.0,0.053679690305006016,0.49910455897393735,period drama film || documentary film,documentary film || period drama film
+281,pcr6_plus,True,False,2,4,2,1.0,1.0,1.0,1.0,0.06391761425735598,0.44113578057937997,period drama film || documentary film,documentary film || period drama film
+282,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.35784039284465585,0.931389993688285,architect || professional basketball player,anglican priest || architect
+282,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.33690436803602436,0.9827928309937538,architect || professional basketball player,anglican priest || architect
+282,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3590313289106064,0.9255190216457317,architect || professional basketball player,anglican priest || architect
+283,dempster,True,False,2,6,2,0.0,0.5,0.5,0.5,0.18649473477565137,0.5171601380013792,football || basketball,football || rugby union
+283,pcr6,True,False,2,6,2,0.0,0.5,0.5,0.5,0.19405463141944396,0.5322344892001581,football || basketball,football || rugby union
+283,pcr6_plus,True,False,2,6,2,0.0,0.5,0.5,0.5,0.178662107050296,0.497533807558899,football || basketball,football || rugby union
+284,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.1688282150608836,0.8727596366724606,northern tunbridge vermont || springfield massachusetts,chester springs pennsylvania || northern tunbridge vermont
+284,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.16505863607172697,0.9043668378516009,northern tunbridge vermont || springfield massachusetts,chester springs pennsylvania || northern tunbridge vermont
+284,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.17106936321450308,0.8442840778460354,northern tunbridge vermont || springfield massachusetts,chester springs pennsylvania || northern tunbridge vermont
+285,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.1882202360479805,0.07045073811202357,28 september 1981 || 28 september 2015,28 september 1981 || 28 september 2015
+285,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.05161395470905385,0.7067357631749303,28 september 1981 || 28 september 2015,28 september 1981 || 28 september 2015
+285,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.03538334808661979,0.5156379088121402,28 september 1981 || 28 september 2015,28 september 1981 || 28 september 2015
+286,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.43670678873666824,0.04058377863195352,airbus a310 324 || tupolev tu 104a,airbus a310 324 || tupolev tu 104a
+286,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.2995520952820864,0.1842491716182738,airbus a310 324 || tupolev tu 104a,airbus a310 324 || tupolev tu 104a
+286,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.38263521045334553,0.031461987442193855,airbus a310 324 || tupolev tu 104a,airbus a310 324 || tupolev tu 104a
+287,dempster,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3695336273875547,0.6226309042167572,green to yellow green || purple to purple brown,purple to purple brown || violet colored
+287,pcr6,True,True,3,5,2,0.0,0.5,0.5,0.5,0.3194900436881938,0.7965286021944074,green to yellow green || purple to purple brown,purple to purple brown || violet colored
+287,pcr6_plus,True,True,3,5,2,0.0,0.5,0.5,0.5,0.35729936237754123,0.611711245361094,green to yellow green || purple to purple brown,purple to purple brown || violet colored
+288,dempster,True,False,2,6,2,0.0,0.5,0.5,0.5,0.30592768300647155,0.02761525592177371,football || basketball,football || racing driving
+288,pcr6,True,False,2,6,2,0.0,0.5,0.5,0.5,0.47307297357371364,0.5909119118098292,football || basketball,football || racing driving
+288,pcr6_plus,True,False,2,6,2,0.0,0.5,0.5,0.5,0.46753622463555705,0.003024515255275306,football || basketball,football || racing driving
+289,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.37619641599377207,0.3116682653346137,football || cricket,football || rugby league
+289,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.37619641599377207,0.3116682653346137,football || cricket,football || rugby league
+289,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.37619641599377207,0.3116682653346137,football || cricket,football || rugby league
+290,dempster,True,False,2,6,2,1.0,1.0,1.0,1.0,0.49235139621834295,0.007469132714744685,1900 to 1904 || 1954,1900 to 1904 || 1954
+290,pcr6,True,False,2,6,2,1.0,1.0,1.0,1.0,0.4839112997987146,0.015927587594548376,1900 to 1904 || 1954,1900 to 1904 || 1954
+290,pcr6_plus,True,False,2,6,2,1.0,1.0,1.0,1.0,0.49220914270530997,0.007366869755308108,1900 to 1904 || 1954,1900 to 1904 || 1954
+291,dempster,True,True,3,4,2,0.0,0.5,0.5,0.5,0.17526344473961983,1.4223115955259784,wulfsige s farm || wolf s stone,wulfric s t n || wulfsige s farm
+291,pcr6,True,True,3,4,2,0.0,0.5,0.5,0.5,0.17524271964145408,1.422638528883268,wulfsige s farm || wolf s stone,wulfric s t n || wulfsige s farm
+291,pcr6_plus,True,True,3,4,2,0.0,0.5,0.5,0.5,0.17546122406248638,1.4199851963835624,wulfsige s farm || wolf s stone,wulfric s t n || wulfsige s farm
+292,dempster,True,False,2,3,2,1.0,1.0,1.0,1.0,0.385787217128375,0.10046839908241136,baseball || golf,baseball || golf
+292,pcr6,True,False,2,3,2,1.0,1.0,1.0,1.0,0.35213307255745374,0.13263089736633732,baseball || golf,baseball || golf
+292,pcr6_plus,True,False,2,3,2,1.0,1.0,1.0,1.0,0.38012747995217516,0.09187625765046459,baseball || golf,baseball || golf
+294,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2687466716962634,1.147012360488295,cricketer || chef,cricketer || judge
+294,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.26547253068859294,1.1577005827277085,cricketer || chef,cricketer || judge
+294,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.26896837815522384,1.1359345429082432,chef || cricketer,cricketer || judge
+295,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.3522289268788653,0.24521938448870575,106 || 5 000,1 473 || 106
+295,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2667363436470791,0.4779019368785022,106 || 5 000,1 473 || 106
+295,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2910307814372615,0.38540714394030123,106 || 5 000,1 473 || 106
+296,dempster,True,True,3,6,2,0.0,0.5,0.5,0.5,0.38264452345040456,0.47454293892154886,romantic comedy || film noir,erotic thriller || film noir
+296,pcr6,True,True,3,6,2,0.0,0.5,0.5,0.5,0.2978489666053567,0.9912412081615802,romantic comedy || film noir,erotic thriller || film noir
+296,pcr6_plus,True,True,3,6,2,0.0,0.5,0.5,0.5,0.5438271056165197,0.36930228443512136,romantic comedy || film noir,erotic thriller || film noir
+297,dempster,True,True,3,6,2,1.0,1.0,1.0,1.0,0.003558274995336525,0.8234775753078551,20 april 1910 || april 1 1958,20 april 1910 || april 1 1958
+297,pcr6,True,True,3,6,2,1.0,1.0,1.0,1.0,0.004148817394021157,0.8430838729781911,20 april 1910 || april 1 1958,20 april 1910 || april 1 1958
+297,pcr6_plus,True,True,3,6,2,1.0,1.0,1.0,1.0,0.003822741187923,0.8201963231842914,20 april 1910 || april 1 1958,20 april 1910 || april 1 1958
+298,dempster,True,True,3,4,2,1.0,1.0,1.0,1.0,0.07975106724333679,0.40490786290197456,marc forster || eric bross,eric bross || marc forster
+298,pcr6,True,True,3,4,2,1.0,1.0,1.0,1.0,0.07071122583672111,0.5131820535069848,marc forster || eric bross,eric bross || marc forster
+298,pcr6_plus,True,True,3,4,2,1.0,1.0,1.0,1.0,0.09342120712872293,0.3556572975353916,marc forster || eric bross,eric bross || marc forster
+300,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.2271635247367292,0.06678606035220852,23 december 1801 || 11 november 1798 || 19 december 1811,11 november 1798 || 19 december 1811 || 5 february 1768
+300,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.1122587614914305,0.16221508329808315,23 december 1801 || 11 november 1798 || 19 december 1811,11 november 1798 || 19 december 1811 || 5 february 1768
+300,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.1201034125155223,0.14446243418882024,23 december 1801 || 11 november 1798 || 19 december 1811,11 november 1798 || 19 december 1811 || 5 february 1768
+301,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.1504907036014635,0.8663600642032512,football || 1997 provincial election || cricket,1997 provincial election || cricket || football
+301,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.1492640735063186,0.8687625504261012,football || 1997 provincial election || cricket,1997 provincial election || cricket || football
+301,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.14929680411371665,0.8656723413604105,football || 1997 provincial election || cricket,1997 provincial election || cricket || football
+302,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.12266778373832202,0.7746504532126853,1865 || about 1870 || 1835,1835 || 1865 || about 1870
+302,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.10700004824868573,0.8272047769122999,1865 || about 1870 || 1835,1835 || 1865 || about 1870
+302,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.12490392797657146,0.753387162105941,1865 || about 1870 || 1835,1835 || 1865 || about 1870
+303,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.45880547345262285,0.0359971806016475,weitai || fengyun || liangdao,liangdao || serious marquis || weitai
+303,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.20987987776057715,0.5078887335383802,weitai || fengyun || liangdao,liangdao || serious marquis || weitai
+303,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2259285162860522,0.3708551135954272,weitai || fengyun || liangdao,liangdao || serious marquis || weitai
+304,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.142670364521526,0.7417629583060329,bertrand russell || bhagat singh || ibn warraq,bertrand russell || bhagat singh || ibn warraq
+304,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.13047898005424685,0.7809021172296731,bertrand russell || bhagat singh || ibn warraq,bertrand russell || bhagat singh || ibn warraq
+304,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14365125769187007,0.7362000233138288,bertrand russell || bhagat singh || ibn warraq,bertrand russell || bhagat singh || ibn warraq
+305,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.13498450991674357,0.6957651828195629,5 november 1641 || 31 may 1599 || 28 march 1613,28 march 1613 || 31 may 1599 || 5 november 1641
+305,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.11442251143746054,0.767512514913463,5 november 1641 || 31 may 1599 || 28 march 1613,28 march 1613 || 31 may 1599 || 5 november 1641
+305,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.13671911856650965,0.6814960602364951,5 november 1641 || 31 may 1599 || 28 march 1613,28 march 1613 || 31 may 1599 || 5 november 1641
+306,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4858774422489208,0.18120175241734104,2 397 || 3 000 || 158,158 || 2 397 || 3 000
+306,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.39628567530929093,0.3083876968309122,2 397 || 3 000 || 158,158 || 2 397 || 3 000
+306,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4147072954558324,0.2657209955869779,2 397 || 3 000 || 158,158 || 2 397 || 3 000
+307,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.21066847582476544,0.6991668734360053,ferdinand fairfax || nick lowe || sue townsend,ferdinand fairfax || nick lowe || sue townsend
+307,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.1833871288390237,0.7981860338304306,ferdinand fairfax || nick lowe || sue townsend,ferdinand fairfax || nick lowe || sue townsend
+307,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.21319560953591515,0.6763448385029908,ferdinand fairfax || nick lowe || sue townsend,ferdinand fairfax || nick lowe || sue townsend
+308,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.11730300263724484,0.6466797415680177,joseph haydn || ludwig van beethoven || michael haydn,joseph haydn || michael haydn || wolfgang amadeus mozart
+308,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09346426866788614,1.502156514656614,joseph haydn || ludwig van beethoven || michael haydn,joseph haydn || michael haydn || wolfgang amadeus mozart
+308,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.12538879499935618,0.8068176642731771,joseph haydn || ludwig van beethoven || michael haydn,joseph haydn || michael haydn || wolfgang amadeus mozart
+309,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3986955398105868,0.270842618772836,vocal cord dysfunction || virtual circular dynamics || vibrational circular dichroism,vibrational circular dichroism || vocal cord dysfunction || voice command device
+309,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3986955398105868,0.270842618772836,vocal cord dysfunction || virtual circular dynamics || vibrational circular dichroism,vibrational circular dichroism || vocal cord dysfunction || voice command device
+309,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3986955398105868,0.270842618772836,vocal cord dysfunction || virtual circular dynamics || vibrational circular dichroism,vibrational circular dichroism || vocal cord dysfunction || voice command device
+310,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.20195546980952098,0.2068479677182305,2 december 1716 || 1619 || 18 june 1668,1619 || 18 june 1668 || 2 december 1716
+310,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.041186369377848406,0.8429293606507382,2 december 1716 || 1619 || 18 june 1668,1619 || 18 june 1668 || 2 december 1716
+310,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.055982526385529474,0.5540963236431959,2 december 1716 || 1619 || 18 june 1668,1619 || 18 june 1668 || 2 december 1716
+311,dempster,True,True,3,4,3,1.0,1.0,1.0,1.0,0.0033636127810362966,1.3703059703264509,spider net grevillea || chuparosa or chiparosa || flame acanthus,chuparosa or chiparosa || flame acanthus || spider net grevillea
+311,pcr6,True,True,3,4,3,1.0,1.0,1.0,1.0,0.003334513939493613,1.3712165195360007,spider net grevillea || chuparosa or chiparosa || flame acanthus,chuparosa or chiparosa || flame acanthus || spider net grevillea
+311,pcr6_plus,True,True,3,4,3,1.0,1.0,1.0,1.0,0.003510033952364593,1.3648809378164843,spider net grevillea || chuparosa or chiparosa || flame acanthus,chuparosa or chiparosa || flame acanthus || spider net grevillea
+312,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.6538811606066326,0.011029283162313322,wang shenzhi || emperor muzong || li deming,emperor muzong || li deming || wang shenzhi
+312,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.48405965533078343,0.19430675495501876,wang shenzhi || emperor muzong || li deming,emperor muzong || li deming || wang shenzhi
+312,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4984936250949639,0.16499112742458616,wang shenzhi || emperor muzong || li deming,emperor muzong || li deming || wang shenzhi
+313,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1841286732378133,0.42125286314682703,1988 || 1975 || 1911,1911 || 1945 || 1988
+313,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.18368839785069327,0.8352006952429895,1988 || 1975 || 1911,1911 || 1945 || 1988
+313,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.30600489329550734,0.33042625440702333,1988 || 1975 || 1911,1911 || 1945 || 1988
+314,dempster,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3362511645938726,0.39481137154605345,1829 1833 || 1870 || 1920,1829 1833 || 1859 || 1870
+314,pcr6,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.24140827240878426,0.6877665028728017,1829 1833 || 1870 || 1920,1829 1833 || 1859 || 1870
+314,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2901352985867229,0.45305030832679605,1829 1833 || 1870 || 1905,1829 1833 || 1859 || 1870
+315,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.06027837046706085,1.1499289073288814,abingdon oxfordshire england || abingdon illinois || abingdon virginia,abingdon illinois || abingdon oxfordshire england || abingdon virginia
+315,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.05944978971269696,1.152816896964139,abingdon oxfordshire england || abingdon illinois || abingdon virginia,abingdon illinois || abingdon oxfordshire england || abingdon virginia
+315,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.060898975260875274,1.1457397315168776,abingdon oxfordshire england || abingdon illinois || abingdon virginia,abingdon illinois || abingdon oxfordshire england || abingdon virginia
+317,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.6145982528447989,0.050885166781565794,24 march 1982 || 15 december 1903 || 28 may 1860,15 december 1903 || 24 march 1982 || 28 may 1860
+317,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.538799628602451,0.1420364692122111,24 march 1982 || 15 december 1903 || 28 may 1860,15 december 1903 || 24 march 1982 || 28 may 1860
+317,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.555244212293803,0.11084388969230961,24 march 1982 || 15 december 1903 || 28 may 1860,15 december 1903 || 24 march 1982 || 28 may 1860
+318,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.2335968186606692,0.4393030948428004,pyotr chardynin || mario s bato || erwin piscator,erwin piscator || mario s bato || pyotr chardynin
+318,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.17494981354248484,0.582269963268215,pyotr chardynin || mario s bato || erwin piscator,erwin piscator || mario s bato || pyotr chardynin
+318,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.19738705455244407,0.4408934425006686,pyotr chardynin || mario s bato || erwin piscator,erwin piscator || mario s bato || pyotr chardynin
+319,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0004757912302361695,1.3103418799536304,christopher coppola || stefan ruzowitzky || bryan forbes,bryan forbes || christopher coppola || stefan ruzowitzky
+319,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.00046504701219497475,1.3135239852046707,christopher coppola || stefan ruzowitzky || bryan forbes,bryan forbes || christopher coppola || stefan ruzowitzky
+319,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0005271308865545023,1.2977349210783073,christopher coppola || stefan ruzowitzky || bryan forbes,bryan forbes || christopher coppola || stefan ruzowitzky
+320,dempster,True,False,2,5,3,0.0,1.0,0.6666666666666666,0.8,0.008198200096757455,0.8221994502651195,snooker player || darts,darts || football soccer || snooker player
+320,pcr6,True,False,2,5,3,0.0,1.0,0.6666666666666666,0.8,0.008133502209051065,0.8228846452028422,snooker player || darts,darts || football soccer || snooker player
+320,pcr6_plus,True,False,2,5,3,0.0,1.0,0.6666666666666666,0.8,0.008469240527755615,0.8184128114917741,snooker player || darts,darts || football soccer || snooker player
+321,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1296041322624168,0.7757427566669008,r e m || jump5 || peter andre,jump5 || peter andre || r e m
+321,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.12141367464968733,0.8019787697487623,r e m || jump5 || peter andre,jump5 || peter andre || r e m
+321,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1307194582068516,0.7655099210285533,r e m || jump5 || peter andre,jump5 || peter andre || r e m
+322,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2728212153469629,0.13144179363744446,baseball || american football || basketball,american football || baseball || cycling
+322,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.12464324638930707,0.7457607574602458,baseball || american football || basketball,american football || baseball || cycling
+322,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.19376426066403515,0.2598797606504844,baseball || american football || basketball,american football || baseball || cycling
+323,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.08930725776115499,1.1016525735837641,1 august 1920 || 1958 || 8 march 1897,1 august 1920 || 1958 || 8 march 1897
+323,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.0850376487352308,1.1496036688433005,1 august 1920 || 1958 || 8 march 1897,1 august 1920 || 1958 || 8 march 1897
+323,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.09487887207716468,1.0421312248139658,1 august 1920 || 1958 || 8 march 1897,1 august 1920 || 1958 || 8 march 1897
+324,dempster,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.26064684358874285,1.2961178253642198,diving || bowling || artistic gymnastics,artistic gymnastics || bowling || sat testing
+324,pcr6,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2516784111454171,1.322621178924735,diving || bowling || artistic gymnastics,artistic gymnastics || bowling || sat testing
+324,pcr6_plus,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2690790165439516,1.265589332239268,diving || bowling || artistic gymnastics,artistic gymnastics || bowling || sat testing
+325,dempster,True,True,4,4,3,1.0,1.0,1.0,1.0,0.08712743901897751,1.1352946987663939,may 22 1841 || 1715 || october 25 1925,1715 || may 22 1841 || october 25 1925
+325,pcr6,True,True,4,4,3,1.0,1.0,1.0,1.0,0.08437347691942108,1.161808442667731,may 22 1841 || 1715 || october 25 1925,1715 || may 22 1841 || october 25 1925
+325,pcr6_plus,True,True,4,4,3,1.0,1.0,1.0,1.0,0.09092421809326305,1.0981296238796836,may 22 1841 || 1715 || october 25 1925,1715 || may 22 1841 || october 25 1925
+326,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.2223414948906057,0.6528492523822454,487th fighter squadron || bombardment squadron || air expeditionary wing,487th fighter squadron || air expeditionary wing || bombardment squadron
+326,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.2223414948906057,0.6528492523822454,487th fighter squadron || bombardment squadron || air expeditionary wing,487th fighter squadron || air expeditionary wing || bombardment squadron
+326,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.2223414948906057,0.6528492523822454,487th fighter squadron || bombardment squadron || air expeditionary wing,487th fighter squadron || air expeditionary wing || bombardment squadron
+327,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.15282566214303422,0.6325187077737754,75 || 1 251 people || 7 094 people,1 251 people || 7 094 people || 75
+327,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.08451439975709579,0.8386753102276343,75 || 1 251 people || 7 094 people,1 251 people || 7 094 people || 75
+327,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.10517738766607926,0.6589656868014331,75 || 1 251 people || 7 094 people,1 251 people || 7 094 people || 75
+328,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4089788779455278,0.19824154617333192,1660 || 1544 1547 || 1750,1544 1547 || 1660 || 1923
+328,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08198020559213831,1.2121137731125264,1660 || 1544 1547 || 1750,1544 1547 || 1660 || 1923
+328,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.11850443581482847,0.6355389231357689,1660 || 1544 1547 || 1750,1544 1547 || 1660 || 1923
+329,dempster,True,True,5,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5900329838891054,0.6986649513826443,the beatles || stephen lynch || coldplay,jack s mannequin || mutemath || stephen lynch
+329,pcr6,True,True,5,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5304935622194068,0.8299561211648121,the beatles || stephen lynch || coldplay,jack s mannequin || mutemath || stephen lynch
+329,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5913950665125798,0.6904651538044996,the beatles || stephen lynch || jack s mannequin,jack s mannequin || mutemath || stephen lynch
+330,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.15512025357240347,0.9330627034270899,1917 || 21 december 1906 || 1964,1917 || 1964 || 21 december 1906
+330,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.15504628365336426,0.9331998829585791,1917 || 21 december 1906 || 1964,1917 || 1964 || 21 december 1906
+330,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.15515123322927965,0.9324722357440222,1917 || 21 december 1906 || 1964,1917 || 1964 || 21 december 1906
+331,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.4490666725974122,0.08472756363076152,24 january 1993 || 16 november 1997 || 1978,16 november 1997 || 1978 || 24 january 1993
+331,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.058209400833025594,1.2858622839415155,24 january 1993 || 1978 || 16 november 1997,16 november 1997 || 1978 || 24 january 1993
+331,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.05081553389964508,0.6374733573261232,24 january 1993 || 1978 || 16 november 1997,16 november 1997 || 1978 || 24 january 1993
+332,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.025676703008318872,0.05645728471311276,536 || 7 899 || 3 870,3 870 || 536 || 7 899
+332,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0010170856473414429,1.0990389343381097,536 || 7 899 || 3 870,3 870 || 536 || 7 899
+332,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0016076335523310128,0.851814320284901,536 || 7 899 || 3 870,3 870 || 536 || 7 899
+333,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.6215237008650083,0.03180625658261151,1 august 1917 || 1952 || 30 may 1945,1 august 1917 || 1952 || 30 may 1945
+333,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.23941512427823577,0.4953512562151237,1 august 1917 || 1952 || 30 may 1945,1 august 1917 || 1952 || 30 may 1945
+333,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3534727335149637,0.16771990209428425,1 august 1917 || 30 may 1945 || 1952,1 august 1917 || 1952 || 30 may 1945
+334,dempster,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08872800664464547,1.6348949116697133,clinton sparks || symphony x || jay z,clinton sparks || gregory berns || symphony x
+334,pcr6,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0886292586007773,1.638949425515995,clinton sparks || symphony x || jay z,clinton sparks || gregory berns || symphony x
+334,pcr6_plus,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08983117051638657,1.6158573573706738,clinton sparks || symphony x || jay z,clinton sparks || gregory berns || symphony x
+335,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.6068862185417812,0.001922318527781606,infantry regiment || 371st bombardment squadron || engineer construction battalion,371st bombardment squadron || engineer construction battalion || infantry regiment
+335,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.03539364692319074,0.8851445632506455,infantry regiment || 371st bombardment squadron || engineer construction battalion,371st bombardment squadron || engineer construction battalion || infantry regiment
+335,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.03566625565179288,0.881714487055534,infantry regiment || 371st bombardment squadron || engineer construction battalion,371st bombardment squadron || engineer construction battalion || infantry regiment
+336,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.35566698892000204,0.009871470489654451,opera || 243 year cycle,243 year cycle || opera || rock album
+336,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.0345821909063973,0.38143170408314947,opera || 243 year cycle,243 year cycle || opera || rock album
+336,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.06881451759567991,0.0012634542008019703,opera || 243 year cycle,243 year cycle || opera || rock album
+337,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.05233313555344091,0.5159140140533744,112 bc || 148 bc,112 bc || 148 bc || 58 bc
+337,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.04788687222080282,0.5380913400022743,112 bc || 148 bc,112 bc || 148 bc || 58 bc
+337,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.06112242898125707,0.48541238753089555,112 bc || 148 bc,112 bc || 148 bc || 58 bc
+338,dempster,True,True,4,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5986677649049646,0.04072492114488653,15 august 1966 || 7 july 1965 || 15 august 1970,1943 || 1959 || 7 july 1965
+338,pcr6,True,True,4,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3255734882834611,1.2466951710757062,15 august 1966 || 7 july 1965 || 15 august 1970,1943 || 1959 || 7 july 1965
+338,pcr6_plus,True,True,4,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3823648460468019,0.8934963431523331,15 august 1966 || 7 july 1965 || 15 august 1970,1943 || 1959 || 7 july 1965
+339,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.019301176263830756,1.1038685644573378,1990 91 season || 2016 || 2010,1990 91 season || 2010 || 2016
+339,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.018289330788599577,1.1171906273848458,1990 91 season || 2016 || 2010,1990 91 season || 2010 || 2016
+339,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.022442160546003058,1.0728329824991127,1990 91 season || 2016 || 2010,1990 91 season || 2010 || 2016
+340,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.06527237920259724,0.19419653406292692,1952 || 1 may 1943 || late 1914,1 may 1943 || 1952 || late 1914
+340,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.024363731560045097,0.9519902801281468,1952 || 1 may 1943 || late 1914,1 may 1943 || 1952 || late 1914
+340,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.08868922725903117,0.4000858182743799,1952 || 1 may 1943 || late 1914,1 may 1943 || 1952 || late 1914
+341,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3274489032117465,0.37735121029344715,1670 || 1569 || 1609,1569 || 1609 || 1670
+341,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.2883152121526248,0.45097590248976727,1670 || 1569 || 1609,1569 || 1609 || 1670
+341,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.32443581407651295,0.3763098536020633,1670 || 1569 || 1609,1569 || 1609 || 1670
+342,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.23850896329189866,0.40651405232102805,1928 || 1918 || 1892,1892 || 1926 1927 || 1928
+342,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.15662402212224463,0.9081492243106819,1928 || 1918 || 1892,1892 || 1926 1927 || 1928
+342,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.12658973801016088,0.47005220887147814,1928 || 1892 || 1918,1892 || 1926 1927 || 1928
+343,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5597171407322806,0.10261317096014025,1870 || 1848 || 1882,1848 || 1870 || 1882
+343,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5210834205767427,0.14693456458934204,1870 || 1848 || 1882,1848 || 1870 || 1882
+343,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5228135793950127,0.142990606929317,1870 || 1848 || 1882,1848 || 1870 || 1882
+344,dempster,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,7.378331225479697e-05,0.9396196958852181,1566 || 8 october 1680,1566 || 1640 || 8 october 1680
+344,pcr6,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,7.360143006636532e-05,0.939627617427033,1566 || 8 october 1680,1566 || 1640 || 8 october 1680
+344,pcr6_plus,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,7.211548466683651e-05,0.9387459554963754,1566 || 8 october 1680,1566 || 1640 || 8 october 1680
+345,dempster,True,True,4,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3398247780595318,0.35109292603960307,30 july 1953 || 15 january 1955 || 15 january 1960,14 may 1869 || 25 june 1942 || 30 july 1953
+345,pcr6,True,True,4,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.2743999716290776,0.8889172971891435,30 july 1953 || 15 january 1955 || 15 january 1960,14 may 1869 || 25 june 1942 || 30 july 1953
+345,pcr6_plus,True,True,4,6,3,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3426862493014712,0.4561701038966323,30 july 1953 || 15 january 1955 || 15 january 1960,14 may 1869 || 25 june 1942 || 30 july 1953
+346,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4247526674438413,0.27534768191518005,marina prior || willie nelson || elton john,joni mitchell || marina prior || willie nelson
+346,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3082209663126102,0.5206963174409956,marina prior || willie nelson || elton john,joni mitchell || marina prior || willie nelson
+346,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.36001984808843057,0.33991509856837826,marina prior || willie nelson || elton john,joni mitchell || marina prior || willie nelson
+347,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.08346950016372366,0.8972748836429032,donald box || reginald clarry || ronald bell,donald box || reginald clarry || ronald bell
+347,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.08175753266975934,0.9058357756725407,donald box || reginald clarry || ronald bell,donald box || reginald clarry || ronald bell
+347,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.09266082852366868,0.8632165460301424,donald box || reginald clarry || ronald bell,donald box || reginald clarry || ronald bell
+348,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.022949778502579645,0.9594998775966059,italo turkish war || 1982 lebanon war || world war ii,1982 lebanon war || italo turkish war || world war ii
+348,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.020841081024949987,0.9935344334106708,italo turkish war || 1982 lebanon war || world war ii,1982 lebanon war || italo turkish war || world war ii
+348,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.03178960515257256,0.8953759699748852,italo turkish war || 1982 lebanon war || world war ii,1982 lebanon war || italo turkish war || world war ii
+349,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3641006712140193,0.05117817962927685,25 139 || 1 636 people || 1 500,1 636 people || 25 139 || 909
+349,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08127986307697141,1.230302643336304,25 139 || 1 636 people || 1 500,1 636 people || 25 139 || 909
+349,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0877766452307969,0.9562632182059875,25 139 || 1 636 people || 1 500,1 636 people || 25 139 || 909
+350,dempster,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.20597221341089,0.08777579819389617,salem massachusetts || contoocook village || raymond new hampshire,contoocook village || raymond new hampshire || stoneham massachusetts
+350,pcr6,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.023411095043437,0.26774877194286106,salem massachusetts || contoocook village || raymond new hampshire,contoocook village || raymond new hampshire || stoneham massachusetts
+350,pcr6_plus,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0584196709882294,0.20666222132446907,salem massachusetts || contoocook village || raymond new hampshire,contoocook village || raymond new hampshire || stoneham massachusetts
+351,dempster,True,True,5,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6003537064747904,0.4671201743434967,1955 || 1964 to 1982 || 1963,1963 || 1964 to 1982 || 2006
+351,pcr6,True,True,5,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4637192627218187,0.8200099457753246,1955 || 1964 to 1982 || 1963,1963 || 1964 to 1982 || 2006
+351,pcr6_plus,True,True,5,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6327741115424569,0.35179489680543813,1955 || 1964 to 1982 || 1963,1963 || 1964 to 1982 || 2006
+352,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.06680089132729239,0.17884133713212694,author || politician || 1970 atlanta braves,1970 atlanta braves || author || politician
+352,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0021064395576180957,0.9902091565929878,politician || 1970 atlanta braves || author,1970 atlanta braves || author || politician
+352,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.036643988878073026,0.15452680728986712,politician || 1970 atlanta braves || author,1970 atlanta braves || author || politician
+353,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4115385386578883,0.1785173701041298,4 284 || 740 || 240,240 || 4 284 || 740
+353,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.21685715480076873,0.5351302899049093,4 284 || 740 || 240,240 || 4 284 || 740
+353,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3295987701345965,0.20463995652168313,4 284 || 740 || 240,240 || 4 284 || 740
+354,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5690026760926279,0.08788723402689283,lu elliott || joe cocker || the beatles,joe cocker || lu elliott || the beatles
+354,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.46808339578110725,0.2195117580697596,lu elliott || the beatles || joe cocker,joe cocker || lu elliott || the beatles
+354,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.48539576509414917,0.17917939382665787,lu elliott || the beatles || joe cocker,joe cocker || lu elliott || the beatles
+355,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.13130139241409064,0.2683030026848308,december 1991 || november 3 1992 || 1997,1997 || december 1991 || november 3 1992
+355,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.05368422180820609,0.7193637699361851,december 1991 || november 3 1992 || 1997,1997 || december 1991 || november 3 1992
+355,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14280099235741017,0.1342223430964554,december 1991 || november 3 1992 || 1997,1997 || december 1991 || november 3 1992
+356,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.14636525130314876,1.1818441832541091,boxing || wrestling || rugby union,boxing || professional wrestling || rugby union
+356,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.14668251354562276,1.191193598506584,boxing || wrestling || rugby union,boxing || professional wrestling || rugby union
+356,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.14480819854982144,1.1529995581431285,boxing || wrestling || rugby union,boxing || professional wrestling || rugby union
+357,dempster,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4397573989698659,0.9613700670964818,january 1 1700 || october 12 1666 || 1699 or 1701,1530 || 1699 or 1701 || october 12 1666
+357,pcr6,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4188982808573249,1.002110864972553,january 1 1700 || october 12 1666 || 1699 or 1701,1530 || 1699 or 1701 || october 12 1666
+357,pcr6_plus,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4397270132299026,0.9602741357513627,january 1 1700 || october 12 1666 || 1699 or 1701,1530 || 1699 or 1701 || october 12 1666
+358,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.000597601672982486,0.36029996862442404,1884 || 1862 || 1920,1862 || 1884 || 1923 1929
+358,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0032213376562793324,0.556286045612779,1884 || 1862 || 1920,1862 || 1884 || 1923 1929
+358,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.002019928210454505,0.3602711631559571,1884 || 1862 || 1920,1862 || 1884 || 1923 1929
+359,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.32221561658705083,1.0208332100704551,the beatles || sandie shaw || boney m,boney m || sandie shaw || the drifters
+359,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2902320969067405,1.117173604037123,the beatles || sandie shaw || boney m,boney m || sandie shaw || the drifters
+359,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3162320331288078,0.9952067022542932,the beatles || sandie shaw || boney m,boney m || sandie shaw || the drifters
+360,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.10132167753722776,0.878446296606079,1961 || 1922 || 1985,1922 || 1961 || 1985
+360,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.09779061285705146,0.8910453629357338,1961 || 1922 || 1985,1922 || 1961 || 1985
+360,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.10270989452006374,0.8710046261861075,1961 || 1922 || 1985,1922 || 1961 || 1985
+361,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3981936833829988,0.22146993220072417,61 || 186 || 316,186 || 316 || 61
+361,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.05223221062999912,0.7926371680557206,61 || 316 || 186,186 || 316 || 61
+361,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.08797713436409342,0.2707396238739988,61 || 316 || 186,186 || 316 || 61
+362,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3202767272895239,0.2234312446179571,324 || 12 345 || 5 601,10 16 years old || 324 || 5 601
+362,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.19085805529181266,0.6877407427290385,324 || 12 345 || 5 601,10 16 years old || 324 || 5 601
+362,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.20981265072105512,0.4536994151642047,324 || 12 345 || 5 601,10 16 years old || 324 || 5 601
+363,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.08094443640856971,0.544425880170837,football || basketball || cricket,basketball || cricket || football
+363,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.04872226480553879,0.7602581549053475,football || basketball || cricket,basketball || cricket || football
+363,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.07879924927015154,0.4500930266226992,football || basketball || cricket,basketball || cricket || football
+364,dempster,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.11707198566369188,0.9175788681586262,2 april 1916 || 1850 || 23 july 1960,11 june 1955 || 1850 || 2 april 1916
+364,pcr6,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.07300283381707531,1.6460141833484496,2 april 1916 || 1850 || 23 july 1960,11 june 1955 || 1850 || 2 april 1916
+364,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.056698247901639215,0.9925580299487505,2 april 1916 || 1850 || 23 july 1960,11 june 1955 || 1850 || 2 april 1916
+365,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.16751657716264273,0.6791787668896047,1250s || 1586 || 1755,1250s || 1586 || 1755
+365,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.15491761775358098,0.713606988550091,1250s || 1586 || 1755,1250s || 1586 || 1755
+365,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.17269633642623416,0.6589010601183682,1250s || 1586 || 1755,1250s || 1586 || 1755
+366,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.01061349319836445,1.3810424341381462,september 14 1930 || november 13 1921 || august 15 1891,august 15 1891 || november 13 1921 || september 14 1930
+366,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.01061349319836445,1.3810424341381462,september 14 1930 || november 13 1921 || august 15 1891,august 15 1891 || november 13 1921 || september 14 1930
+366,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.01061349319836445,1.3810424341381462,september 14 1930 || november 13 1921 || august 15 1891,august 15 1891 || november 13 1921 || september 14 1930
+367,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5546861993893207,0.06043932116632076,liberal || national socialism || right wing,conservative || national socialism || right wing
+367,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.19716388396168627,1.2467616650638855,liberal || national socialism || right wing,conservative || national socialism || right wing
+367,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.29363836356024936,0.807927766845107,liberal || national socialism || right wing,conservative || national socialism || right wing
+368,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.08850777253084272,0.5416143048658557,butthole surfers || rheostatics || garth brooks,butthole surfers || garth brooks || rheostatics
+368,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.05241874307931006,0.7598615593870472,butthole surfers || rheostatics || garth brooks,butthole surfers || garth brooks || rheostatics
+368,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.061382241536507336,0.5804750041527583,butthole surfers || rheostatics || garth brooks,butthole surfers || garth brooks || rheostatics
+369,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.153068899967949,0.23017302553605137,1627 || 27 april 1699 || 1577,1577 || 1627 || 27 april 1699
+369,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.05484983929360697,0.9167213299453787,1627 || 27 april 1699 || 1577,1577 || 1627 || 27 april 1699
+369,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.0684822617371181,0.5846426215445621,1627 || 27 april 1699 || 1577,1577 || 1627 || 27 april 1699
+370,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6473860341099349,0.02521815878218082,1 417 || 2 500 || 80 persons,1 417 || 80 persons || 874
+370,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5751558980974926,0.12903190287561644,1 417 || 2 500 || 80 persons,1 417 || 80 persons || 874
+370,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5888909762691077,0.0996163542086575,1 417 || 2 500 || 80 persons,1 417 || 80 persons || 874
+371,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1538961115846134,0.42109807918566566,21 august 1987 || 1866 || 1840,1840 || 1866 || 21 august 1987
+371,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.08671741416674689,0.722335453128212,21 august 1987 || 1866 || 1840,1840 || 1866 || 21 august 1987
+371,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.19345736084504525,0.3153341738498026,21 august 1987 || 1866 || 1840,1840 || 1866 || 21 august 1987
+372,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.028838971843695674,0.7456695256318658,richard marx || steve kloves || moira walley beckett,moira walley beckett || richard marx || steve kloves
+372,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.022033310358780575,0.8584865584365966,richard marx || steve kloves || moira walley beckett,moira walley beckett || richard marx || steve kloves
+372,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.04089156430099468,0.6324095377847129,richard marx || steve kloves || moira walley beckett,moira walley beckett || richard marx || steve kloves
+373,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.0006865058706365278,1.4537184855124843,republican || democratic party || minnesota farmer labor party,democratic party || minnesota farmer labor party || republican
+373,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.0006858537419503543,1.4537722849056314,republican || democratic party || minnesota farmer labor party,democratic party || minnesota farmer labor party || republican
+373,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.0006999686047575084,1.4517264488999215,republican || democratic party || minnesota farmer labor party,democratic party || minnesota farmer labor party || republican
+374,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.43601381105778797,0.2410140202915998,1995 || 25 september 1970 || 2017,1995 || 2017 || 25 september 1970
+374,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.4028744056206717,0.28916967129151316,1995 || 25 september 1970 || 2017,1995 || 2017 || 25 september 1970
+374,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.41428129222734406,0.26306795241087244,1995 || 25 september 1970 || 2017,1995 || 2017 || 25 september 1970
+375,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.35277487469731783,0.3107841982357746,chet atkins || zoot sims || joey baron,chet atkins || joey baron || zoot sims
+375,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.21767015617282512,0.6208755302031586,chet atkins || zoot sims || joey baron,chet atkins || joey baron || zoot sims
+375,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.23175372081894785,0.4255368524666568,chet atkins || zoot sims || joey baron,chet atkins || joey baron || zoot sims
+376,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.13607650461939802,0.8464521409026399,183 || 2 220 || 5 000,183 || 2 197 || 2 220
+376,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1137622025575874,0.9600059424371946,183 || 2 220 || 5 000,183 || 2 197 || 2 220
+376,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.13527525974999388,0.8355766680555967,183 || 2 220 || 5 000,183 || 2 197 || 2 220
+377,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.24180614454539434,0.4382623345928877,cowboys international || tom lehrer || eartha kitt,cowboys international || eartha kitt || tom lehrer
+377,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.14759319857614947,0.7688169043914952,cowboys international || tom lehrer || eartha kitt,cowboys international || eartha kitt || tom lehrer
+377,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.19607224179776322,0.5148218739021136,cowboys international || tom lehrer || eartha kitt,cowboys international || eartha kitt || tom lehrer
+378,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14729140055175788,0.02520573425019259,1962 || 12 october 1965 || 1971,12 october 1965 || 1962 || 1971
+378,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.006478572400445687,1.088375889307478,1962 || 12 october 1965 || 1971,12 october 1965 || 1962 || 1971
+378,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.01050233688525614,0.9057957420589762,1962 || 12 october 1965 || 1971,12 october 1965 || 1962 || 1971
+379,dempster,True,False,2,5,3,0.0,1.0,0.6666666666666666,0.8,0.3647001657582383,0.09430430074437403,1932 || 2028,1932 || 1984 summer olympics || 2028
+379,pcr6,True,False,2,5,3,0.0,1.0,0.6666666666666666,0.8,0.263831801983959,0.216238199715817,1932 || 2028,1932 || 1984 summer olympics || 2028
+379,pcr6_plus,True,False,2,5,3,0.0,1.0,0.6666666666666666,0.8,0.3403459541846997,0.07599462755721889,1932 || 2028,1932 || 1984 summer olympics || 2028
+380,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5905835742482854,0.07654113971702274,jeremy camp || ava duvernay || bono,ava duvernay || bono || jeremy camp
+380,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4813321261936173,0.22155923597202715,jeremy camp || ava duvernay || bono,ava duvernay || bono || jeremy camp
+380,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5910715213009929,0.06792027457868335,jeremy camp || ava duvernay || bono,ava duvernay || bono || jeremy camp
+381,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.42683761663410585,0.047405049348949825,eleanor burden || johnnie || prince ivan,eleanor burden || johnnie || marco loristan
+381,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.105758004644733,1.034553465805573,eleanor burden || johnnie || prince ivan,eleanor burden || johnnie || marco loristan
+381,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.15881938757040023,0.6106939034505409,eleanor burden || johnnie || prince ivan,eleanor burden || johnnie || marco loristan
+382,dempster,True,True,4,5,3,1.0,1.0,1.0,1.0,0.08530090930166113,1.0898547500004463,kuantan pahang malaysia || cheras selangor malaysia || johor,cheras selangor malaysia || johor || kuantan pahang malaysia
+382,pcr6,True,True,4,5,3,1.0,1.0,1.0,1.0,0.08090786403186825,1.1257891351043274,kuantan pahang malaysia || cheras selangor malaysia || johor,cheras selangor malaysia || johor || kuantan pahang malaysia
+382,pcr6_plus,True,True,4,5,3,1.0,1.0,1.0,1.0,0.08661343112732735,1.0755248647204816,kuantan pahang malaysia || cheras selangor malaysia || johor,cheras selangor malaysia || johor || kuantan pahang malaysia
+383,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.21848300084997277,0.557959501167676,tony richardson || michael curtiz || j searle dawley,j searle dawley || michael curtiz || tony richardson
+383,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.16861576923251473,0.6733292252955593,tony richardson || michael curtiz || j searle dawley,j searle dawley || michael curtiz || tony richardson
+383,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1869128150459704,0.5794825422613321,tony richardson || michael curtiz || j searle dawley,j searle dawley || michael curtiz || tony richardson
+384,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0005754410634892184,0.1388055759090709,1870 in bristol || 1879 || july 26 1876,1870 in bristol || 1879 || july 26 1876
+384,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.007575338797754417,1.0543594829410383,1870 in bristol || 1879 || july 26 1876,1870 in bristol || 1879 || july 26 1876
+384,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.05302104870864115,0.45892875573561454,1870 in bristol || 1879 || july 26 1876,1870 in bristol || 1879 || july 26 1876
+385,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.15409553071007015,0.7681095267444977,john michael montgomery || aretha franklin || dusty springfield,aretha franklin || dusty springfield || john michael montgomery
+385,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.12488351373535825,0.8466248050340658,john michael montgomery || aretha franklin || dusty springfield,aretha franklin || dusty springfield || john michael montgomery
+385,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14313403587880233,0.7803080308283702,john michael montgomery || aretha franklin || dusty springfield,aretha franklin || dusty springfield || john michael montgomery
+386,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6061653270668635,0.017095515912675805,17 october 1970 || 19 september 1950 || 25 september 1952,17 october 1970 || 19 september 1940 || 25 september 1952
+386,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1387217909140565,0.8954234981363455,17 october 1970 || 19 september 1950 || 25 september 1952,17 october 1970 || 19 september 1940 || 25 september 1952
+386,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.20145960839653573,0.48625433385448935,17 october 1970 || 19 september 1950 || 25 september 1952,17 october 1970 || 19 september 1940 || 25 september 1952
+387,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4304446111556927,0.22513035490228556,2 454 people || 3 995 people || 205,2 454 people || 205 || 3 995 people
+387,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.349276022675583,0.3505535516352593,2 454 people || 3 995 people || 205,2 454 people || 205 || 3 995 people
+387,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.37432364198799867,0.28274176385961847,2 454 people || 3 995 people || 205,2 454 people || 205 || 3 995 people
+388,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.626035766376111,0.020706026539672955,1884 1886 || 1790 to 1794 || 1971,1790 to 1794 || 1884 1886 || 1971
+388,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.3126297544321691,0.40071508517045196,1884 1886 || 1790 to 1794 || 1971,1790 to 1794 || 1884 1886 || 1971
+388,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.3229739089966238,0.34200570040157097,1884 1886 || 1790 to 1794 || 1971,1790 to 1794 || 1884 1886 || 1971
+389,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.387278786815637,0.09484966085860795,ronnie milsap || justin guarini,justin guarini || peter tork || ronnie milsap
+389,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.3255117367295773,0.1683024518121273,ronnie milsap || justin guarini,justin guarini || peter tork || ronnie milsap
+389,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.38743008905391324,0.08484459105455198,ronnie milsap || justin guarini,justin guarini || peter tork || ronnie milsap
+390,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6515486085103834,0.22231902644270615,15 200 people || 11 947 || 8 930 people,11 947 || 8 695 people || 8 930 people
+390,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.37447425652574295,0.8109941826475219,15 200 people || 11 947 || 8 930 people,11 947 || 8 695 people || 8 930 people
+390,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.42359310386061405,0.5615722268498552,15 200 people || 11 947 || 8 930 people,11 947 || 8 695 people || 8 930 people
+391,dempster,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5206743972072438,0.765078025698412,documentary || satirical drama || autobiography,autobiography || comedy programme || satirical drama
+391,pcr6,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.31750733954344385,1.047569916911985,documentary || satirical drama || autobiography,autobiography || comedy programme || satirical drama
+391,pcr6_plus,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.36740464707224146,0.7319026097381249,documentary || satirical drama || autobiography,autobiography || comedy programme || satirical drama
+392,dempster,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08745821984647198,1.0668777004821013,8 december 2009 || 2008 || 15 january 2010,2008 || 8 december 2009 || october 9 2010
+392,pcr6,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0830642184024735,1.1343669064857411,8 december 2009 || 2008 || 15 january 2010,2008 || 8 december 2009 || october 9 2010
+392,pcr6_plus,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08744515323606677,0.9475687742500516,8 december 2009 || 2008 || 15 january 2010,2008 || 8 december 2009 || october 9 2010
+393,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.39946623916669566,0.25026818381231275,childeric ii || clotaire i || gondioc,childeric ii || clotaire i || gondioc
+393,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.158708280061842,0.8084742798589439,childeric ii || clotaire i || gondioc,childeric ii || clotaire i || gondioc
+393,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.1762085703399336,0.4794081939138247,childeric ii || clotaire i || gondioc,childeric ii || clotaire i || gondioc
+394,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.14813521618922837,0.9171121500449847,210 || 1 971 || 1 948 inhabitants 2004,1 948 inhabitants 2004 || 1 971 || 210
+394,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.1350061381170255,0.9481636997501216,210 || 1 971 || 1 948 inhabitants 2004,1 948 inhabitants 2004 || 1 971 || 210
+394,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.14744747252520998,0.9202619462173884,210 || 1 971 || 1 948 inhabitants 2004,1 948 inhabitants 2004 || 1 971 || 210
+395,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.12275432357954796,0.43904411574120866,1102 || 1105,1101 || 1102 || 1105
+395,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.11559874672345098,0.4555212764654469,1102 || 1105,1101 || 1102 || 1105
+395,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.1293961475714827,0.42240855377741876,1102 || 1105,1101 || 1102 || 1105
+396,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.48197304663221086,0.20836630411354307,5 || abc || nbc,5 || abc || nbc
+396,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.47423155181763765,0.21944599048464455,5 || abc || nbc,5 || abc || nbc
+396,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4830223923946828,0.2065589507361112,5 || abc || nbc,5 || abc || nbc
+397,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.507463444924023,0.0058954008860202375,starflyer || san francisco jail || saphenofemoral junction,kangerlussuaq airport || saphenofemoral junction || starflyer
+397,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2150452175700425,0.7706462323321844,starflyer || san francisco jail || saphenofemoral junction,kangerlussuaq airport || saphenofemoral junction || starflyer
+397,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2535036211977724,0.5859287333333583,starflyer || san francisco jail || saphenofemoral junction,kangerlussuaq airport || saphenofemoral junction || starflyer
+398,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1914170546749632,0.634808838610055,1890s || 1893 || 1850 1851,1890s || 1893 || 1901 1902
+398,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.06488441337071396,1.3761185547241994,1890s || 1893 || 1850 1851,1890s || 1893 || 1901 1902
+398,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0760425177417851,0.8461472280381613,1890s || 1893 || 1850 1851,1890s || 1893 || 1901 1902
+399,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.06425980549891644,0.8866589817436179,pritam || shalini || raj,pritam || raghu || shalini
+399,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.07136848070539609,1.4263378335405799,pritam || shalini || raghu,pritam || raghu || shalini
+399,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.05921665284940403,0.9283995771426499,shalini || pritam || raghu,pritam || raghu || shalini
+400,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.010558455743354626,1.204708356477001,urbana ohio || searcy arkansas || cushing oklahoma,cushing oklahoma || searcy arkansas || urbana ohio
+400,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.010276189069129419,1.2102198545216938,urbana ohio || searcy arkansas || cushing oklahoma,cushing oklahoma || searcy arkansas || urbana ohio
+400,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.01190812904788473,1.1871572911959685,urbana ohio || searcy arkansas || cushing oklahoma,cushing oklahoma || searcy arkansas || urbana ohio
+401,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0005150101602380568,1.2976043711479595,broadleaf aiea || nothocestrum latifolium || smallflower aiea,broadleaf aiea || nothocestrum latifolium || smallflower aiea
+401,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0005007160320947148,1.3015596808039933,broadleaf aiea || nothocestrum latifolium || smallflower aiea,broadleaf aiea || nothocestrum latifolium || smallflower aiea
+401,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0005684764974632891,1.285803466534523,broadleaf aiea || nothocestrum latifolium || smallflower aiea,broadleaf aiea || nothocestrum latifolium || smallflower aiea
+402,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.005908737885614427,1.2351149361057023,mccoy tyner || sanctuary || hans zimmer,hans zimmer || mccoy tyner || sanctuary
+402,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.0057469110019670346,1.240977539309266,mccoy tyner || sanctuary || hans zimmer,hans zimmer || mccoy tyner || sanctuary
+402,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.007347852076837805,1.2116276897925753,mccoy tyner || sanctuary || hans zimmer,hans zimmer || mccoy tyner || sanctuary
+403,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.17402786485245975,0.7423113853181208,11 nov 1808 || 1784 || 1848,11 nov 1808 || 1784 || 1848
+403,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.17223410941036943,0.7459653086641986,11 nov 1808 || 1784 || 1848,11 nov 1808 || 1784 || 1848
+403,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.17448626890457852,0.737360200449871,11 nov 1808 || 1784 || 1848,11 nov 1808 || 1784 || 1848
+404,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.19581569710925212,0.5713883312016809,24 october 1975 || 1962 || march 8 2018,1962 || 24 october 1975 || march 8 2018
+404,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.184248190742075,0.6045721048606247,24 october 1975 || 1962 || march 8 2018,1962 || 24 october 1975 || march 8 2018
+404,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.20152260640221387,0.5552043124223142,24 october 1975 || 1962 || march 8 2018,1962 || 24 october 1975 || march 8 2018
+405,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.011157056124969722,0.25507412006280417,22 august 1765 || 8 november 1903,12 august 1836 || 22 august 1765 || 8 november 1903
+405,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.005262505268702762,0.43306019090732156,22 august 1765 || 8 november 1903,12 august 1836 || 22 august 1765 || 8 november 1903
+405,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.006529299684830259,0.1675907918319403,22 august 1765 || 8 november 1903,12 august 1836 || 22 august 1765 || 8 november 1903
+406,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.30939028494068227,0.6624911440140775,january 1st 1950 || 10 july 1940 || october 1st 1974,10 july 1940 || 1981 || october 1st 1974
+406,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.22773850570459028,1.0609414779065518,january 1st 1950 || 10 july 1940 || october 1st 1974,10 july 1940 || 1981 || october 1st 1974
+406,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3522461008697157,0.5149851203712329,january 1st 1950 || 10 july 1940 || october 1st 1974,10 july 1940 || 1981 || october 1st 1974
+407,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.13101341966952273,0.7066068219448549,1912 || 1918 1919 || 1895,1912 || 1913 || 1918 1919
+407,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10217200070351126,1.1697164455237568,1912 || 1918 1919 || 1895,1912 || 1913 || 1918 1919
+407,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.16558969055917944,0.59591617880421,1912 || 1918 1919 || 1895,1912 || 1913 || 1918 1919
+408,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.18732067794781154,0.13874764601020256,american football || halloween || basketball,american football || baseball || halloween
+408,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09962944345042668,0.5912826669024871,american football || halloween || basketball,american football || baseball || halloween
+408,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.121126369759558,0.3170526919044381,american football || halloween || basketball,american football || baseball || halloween
+409,dempster,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.17054849719383086,0.5094435387449494,48 || 5 000 || 255 people,1 624 || 255 people || 48
+409,pcr6,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09385023764626274,1.5801157276014473,48 || 255 people || 5 000,1 624 || 255 people || 48
+409,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08448354677374217,0.9650658777535445,48 || 255 people || 5 000,1 624 || 255 people || 48
+410,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.052188563705885066,0.9393004296516042,meir berlin || viu || biu kingdom,biu kingdom || meir berlin || viu
+410,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.052400077796085506,1.107992413470379,meir berlin || viu || biu kingdom,biu kingdom || meir berlin || viu
+410,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.05871993832564655,0.7902347458489415,meir berlin || viu || biu kingdom,biu kingdom || meir berlin || viu
+411,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.19395790680829253,0.6376156702367753,1929 || 1923 || 1914,1914 || 1923 || 1929
+411,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1736035027501396,0.6895160945610689,1929 || 1923 || 1914,1914 || 1923 || 1929
+411,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.19110790541757397,0.6439755971757615,1929 || 1923 || 1914,1914 || 1923 || 1929
+412,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.20562004421919683,0.5169168685869486,344 people || 5 000 || 220,220 || 3 879 || 344 people
+412,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.11263509076794943,1.1949110991525878,344 people || 220 || 5 000,220 || 3 879 || 344 people
+412,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.17759385394021854,0.5537272433826325,220 || 344 people || 5 000,220 || 3 879 || 344 people
+413,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3066602201703296,1.1104011021833642,marine biologist || physicist || chaplain,chaplain || naturalist and anatomist || physicist
+413,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.30280177490650945,1.1221691173996025,marine biologist || physicist || chaplain,chaplain || naturalist and anatomist || physicist
+413,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3163440562436512,1.0869017064911277,marine biologist || physicist || chaplain,chaplain || naturalist and anatomist || physicist
+414,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5761265852894818,0.13955897173049864,1955 || 1953 || 1872,1872 || 1939 || 1953
+414,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.22373747868608962,1.001303424541166,1955 || 1953 || 1872,1872 || 1939 || 1953
+414,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3397282343373329,0.4521837606556455,1955 || 1953 || 1872,1872 || 1939 || 1953
+415,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3883310308859307,0.012492531494737565,american football || baseball || basketball,american football || baseball || powerlifting
+415,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09130376877279217,0.7150419015711055,american football || baseball || basketball,american football || baseball || powerlifting
+415,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08722612755311374,0.47430471587652584,american football || baseball || basketball,american football || baseball || powerlifting
+416,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1821504961215681,0.21324251488258367,september 24 1936 || 19 january 1871 || 1998,19 january 1871 || 1998 || september 24 1936
+416,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.10950936831702807,0.5480895541999908,september 24 1936 || 19 january 1871 || 1998,19 january 1871 || 1998 || september 24 1936
+416,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.16987735245690216,0.15632132311973357,september 24 1936 || 19 january 1871 || 1998,19 january 1871 || 1998 || september 24 1936
+417,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.2684275840593697,0.2309942418618268,3 168 || 178 people || 3 102,178 people || 3 102 || 3 168
+417,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14415203262492354,0.5711768302941259,3 168 || 178 people || 3 102,178 people || 3 102 || 3 168
+417,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.20756166087063993,0.2672475220763797,3 168 || 178 people || 3 102,178 people || 3 102 || 3 168
+418,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.16128703324904847,0.30646690012895383,2 070 || 5 000 || 4 843,2 070 || 2 100 || 4 843
+418,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10538350192814919,1.274547109831432,5 000 || 2 070 || 4 843,2 070 || 2 100 || 4 843
+418,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.11763298839759054,0.8598948525351604,5 000 || 2 070 || 4 843,2 070 || 2 100 || 4 843
+419,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.009309216945040218,1.2224059262114952,ng see yuen || chukiat sakveerakul || giorgio serafini,chukiat sakveerakul || giorgio serafini || ng see yuen
+419,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.009026272183705391,1.2278994728538855,ng see yuen || chukiat sakveerakul || giorgio serafini,chukiat sakveerakul || giorgio serafini || ng see yuen
+419,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.00993412052694127,1.208353579944877,ng see yuen || chukiat sakveerakul || giorgio serafini,chukiat sakveerakul || giorgio serafini || ng see yuen
+420,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.181619453477475,1.4953667413785594,johann sebastian bach || sergei rachmaninoff || mykola leontovych,mykola leontovych || pyotr ilyich tchaikovsky || sergei rachmaninoff
+420,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1797612154467313,1.5032021627999705,johann sebastian bach || sergei rachmaninoff || mykola leontovych,mykola leontovych || pyotr ilyich tchaikovsky || sergei rachmaninoff
+420,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.18446356546316714,1.4769523208065674,johann sebastian bach || sergei rachmaninoff || mykola leontovych,mykola leontovych || pyotr ilyich tchaikovsky || sergei rachmaninoff
+421,dempster,True,False,2,4,3,0.0,1.0,0.6666666666666666,0.8,0.011671889925561604,0.8472132864051222,the eagle || a mustang,a mustang || eagles || the eagle
+421,pcr6,True,False,2,4,3,0.0,1.0,0.6666666666666666,0.8,0.011671889925561604,0.8472132864051222,the eagle || a mustang,a mustang || eagles || the eagle
+421,pcr6_plus,True,False,2,4,3,0.0,1.0,0.6666666666666666,0.8,0.011671889925561604,0.8472132864051222,the eagle || a mustang,a mustang || eagles || the eagle
+422,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.15605248561146287,0.026367651308871275,nebraska || iowa || michigan,iowa || michigan || nebraska
+422,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.025931468845997382,0.7487834570414015,iowa || nebraska || michigan,iowa || michigan || nebraska
+422,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.05481828420079534,0.3584549437713393,iowa || nebraska || michigan,iowa || michigan || nebraska
+423,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.6136885886759712,0.05256442897042758,july 2 1849 || january 17 1778 || 1862,1862 || january 17 1778 || july 2 1849
+423,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5817855052927322,0.0901306397644921,july 2 1849 || january 17 1778 || 1862,1862 || january 17 1778 || july 2 1849
+423,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5886116324157096,0.07830150736406646,july 2 1849 || january 17 1778 || 1862,1862 || january 17 1778 || july 2 1849
+424,dempster,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6210281838713204,0.6698613079644435,june 15 1790 || 19 october 1953 || september 17 1737,19 october 1953 || january 1 1787 || september 17 1737
+424,pcr6,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5819614849294742,0.7337927918210959,june 15 1790 || 19 october 1953 || september 17 1737,19 october 1953 || january 1 1787 || september 17 1737
+424,pcr6_plus,True,True,4,4,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.624032519865024,0.6565441603738996,june 15 1790 || 19 october 1953 || september 17 1737,19 october 1953 || january 1 1787 || september 17 1737
+425,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3485963028272129,0.3785909111061152,rhode island || ohio || alabama,alabama || ohio || rhode island
+425,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3235139880858049,0.4219311132052952,rhode island || ohio || alabama,alabama || ohio || rhode island
+425,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.34255381349241804,0.38362526239173195,rhode island || ohio || alabama,alabama || ohio || rhode island
+426,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.40019510555826043,0.7761771306719605,1880s || 1925 || 1886,1880s || 1886 || 1932
+426,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1914040134071083,1.30241696240195,1880s || 1925 || 1886,1880s || 1886 || 1932
+426,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2777155412450584,0.8119762304833339,1880s || 1925 || 1886,1880s || 1886 || 1932
+427,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.0016491883299232439,1.411881124382705,1913 || 1986 || 2010,1913 || 1986 || 2010
+427,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.0016440688878380883,1.41210635293336,1913 || 1986 || 2010,1913 || 1986 || 2010
+427,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.0016978139579431702,1.4075626317653733,1913 || 1986 || 2010,1913 || 1986 || 2010
+429,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4429719623128982,0.5309352519657435,11 april 1834 || 1850 || 1786,11 april 1834 || 1786 || 19 april 1918
+429,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3966336655259259,0.6409280374867783,11 april 1834 || 1850 || 1786,11 april 1834 || 1786 || 19 april 1918
+429,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4394633044589179,0.5540524021582073,11 april 1834 || 1850 || 1786,11 april 1834 || 1786 || 19 april 1918
+430,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.11107370981401984,0.1953654758405647,international geophysical year || israel gay youth,immunoglobulin y || international geophysical year || israel gay youth
+430,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.052695419146254946,0.39489391000805396,international geophysical year || israel gay youth,immunoglobulin y || international geophysical year || israel gay youth
+430,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.07296220932096628,0.12651379708541557,international geophysical year || israel gay youth,immunoglobulin y || international geophysical year || israel gay youth
+431,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.39424750337991793,1.012331765660759,1995 || october 1975 || 1985,1973 || 1985 || october 1975
+431,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.386843028985428,1.0281719159284979,1995 || october 1975 || 1985,1973 || 1985 || october 1975
+431,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4083824385709395,0.9834888948480853,1995 || october 1975 || 1985,1973 || 1985 || october 1975
+432,dempster,True,True,3,4,3,1.0,1.0,1.0,1.0,0.22316673831250633,0.17107742483210894,science fiction novel || traditional nature documentary || action comedy film,action comedy film || science fiction novel || traditional nature documentary
+432,pcr6,True,True,3,4,3,1.0,1.0,1.0,1.0,0.08630640569702701,0.638354307866122,science fiction novel || traditional nature documentary || action comedy film,action comedy film || science fiction novel || traditional nature documentary
+432,pcr6_plus,True,True,3,4,3,1.0,1.0,1.0,1.0,0.12899730571866325,0.3946580821564093,science fiction novel || traditional nature documentary || action comedy film,action comedy film || science fiction novel || traditional nature documentary
+434,dempster,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5997973461533456,0.010038733724305795,johnny mathis || jovit baldivino || john legend,faith evans || johnny mathis || jovit baldivino
+434,pcr6,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1400700566273954,0.8019674529710942,johnny mathis || jovit baldivino || john legend,faith evans || johnny mathis || jovit baldivino
+434,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.15867616416479044,0.6221036573886571,johnny mathis || jovit baldivino || john legend,faith evans || johnny mathis || jovit baldivino
+435,dempster,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,0.15900450679427133,0.3724551776401933,2 500 || 370 people,2 500 || 3 046 people || 370 people
+435,pcr6,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,0.15241107245381605,0.3825890557892775,2 500 || 370 people,2 500 || 3 046 people || 370 people
+435,pcr6_plus,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,0.1643228966531124,0.3544218574510725,2 500 || 370 people,2 500 || 3 046 people || 370 people
+436,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14001822011847564,0.025864678976424648,fighter squadron || 378th bombardment group || troop carrier squadron,378th bombardment group || fighter squadron || troop carrier squadron
+436,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0072690350940535445,1.0863299139254001,fighter squadron || 378th bombardment group || troop carrier squadron,378th bombardment group || fighter squadron || troop carrier squadron
+436,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.011961955854466995,0.9075530896656202,fighter squadron || 378th bombardment group || troop carrier squadron,378th bombardment group || fighter squadron || troop carrier squadron
+437,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5986104619322116,0.04878218425744716,21 october 1527 || 22 january 1575 || 6 july 1555,21 october 1527 || 22 january 1575 || 6 july 1555
+437,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.373366421636259,0.33859611108374826,21 october 1527 || 22 january 1575 || 6 july 1555,21 october 1527 || 22 january 1575 || 6 july 1555
+437,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3965161613851984,0.2790619805850008,21 october 1527 || 22 january 1575 || 6 july 1555,21 october 1527 || 22 january 1575 || 6 july 1555
+438,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5969899826190948,0.0718722562724956,speed skating || gambling || basketball,boxing || gambling || speed skating
+438,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.37495377812318764,0.4500883641180603,speed skating || gambling || basketball,boxing || gambling || speed skating
+438,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.42630830183286594,0.2957839385595742,speed skating || basketball || gambling,boxing || gambling || speed skating
+439,dempster,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,0.04699166495818727,0.4307914047467102,stoneham massachusetts || bristol new hampshire,bristol new hampshire || stoneham massachusetts || waltham massachusetts
+439,pcr6,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,0.04493218290771095,0.44440539249860705,stoneham massachusetts || bristol new hampshire,bristol new hampshire || stoneham massachusetts || waltham massachusetts
+439,pcr6_plus,True,False,2,3,3,0.0,1.0,0.6666666666666666,0.8,0.05685536804741656,0.38005952664854875,stoneham massachusetts || bristol new hampshire,bristol new hampshire || stoneham massachusetts || waltham massachusetts
+440,dempster,True,True,3,4,3,1.0,1.0,1.0,1.0,0.00031439555028632397,1.3996560025541016,actor || economist || freelance broadcaster,actor || economist || freelance broadcaster
+440,pcr6,True,True,3,4,3,1.0,1.0,1.0,1.0,0.00031132498263442476,1.4004660671413764,actor || economist || freelance broadcaster,actor || economist || freelance broadcaster
+440,pcr6_plus,True,True,3,4,3,1.0,1.0,1.0,1.0,0.00032815265157083197,1.3939732261257252,actor || economist || freelance broadcaster,actor || economist || freelance broadcaster
+442,dempster,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10747115259034919,1.683154179325675,january 1 1800 || november 18 1797 || october 12 1753,november 18 1797 || october 12 1753 || september 15 1909
+442,pcr6,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1072741705449479,1.685560327643184,january 1 1800 || november 18 1797 || october 12 1753,november 18 1797 || october 12 1753 || september 15 1909
+442,pcr6_plus,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10914215497245025,1.6719346710631096,january 1 1800 || november 18 1797 || october 12 1753,november 18 1797 || october 12 1753 || september 15 1909
+443,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.47249470283646433,0.8382925967865521,brawler action adventure || country || reggae,brawler action adventure || reggae || thriller comedy romance hybrid
+443,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2997734374702005,1.1086286052223877,brawler action adventure || country || reggae,brawler action adventure || reggae || thriller comedy romance hybrid
+443,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.37801491330621295,0.8158183622238473,brawler action adventure || country || reggae,brawler action adventure || reggae || thriller comedy romance hybrid
+444,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.15858296835503952,0.7614142302900533,uk labour party || labor party || liberal party,conservative party || labor party || uk labour party
+444,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09632834193051268,1.0887912455760231,uk labour party || labor party || liberal party,conservative party || labor party || uk labour party
+444,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1466208073794013,0.7718905124002017,uk labour party || labor party || liberal party,conservative party || labor party || uk labour party
+445,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.4141884014405014,0.2958933165043381,3 307 || 4 008 || 571,3 307 || 4 008 || 571
+445,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.413903874109082,0.29631352123864324,3 307 || 4 008 || 571,3 307 || 4 008 || 571
+445,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.41429118067217596,0.2957450733857927,3 307 || 4 008 || 571,3 307 || 4 008 || 571
+446,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.15814911332686055,0.4730790498132643,1970s || lucca and pisa || messina sicily,1970s || lucca and pisa || messina sicily
+446,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.05566015610316152,1.1080411053891517,1970s || lucca and pisa || messina sicily,1970s || lucca and pisa || messina sicily
+446,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.060627438978636816,0.657337820314378,1970s || lucca and pisa || messina sicily,1970s || lucca and pisa || messina sicily
+447,dempster,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6391158535725407,0.6395682761329695,12 october 1900 || 7 march 1892 || 4 january 1896,4 january 1896 || 7 march 1892 || may 13 1926
+447,pcr6,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.513077110818575,0.835864359181281,12 october 1900 || 7 march 1892 || 4 january 1896,4 january 1896 || 7 march 1892 || may 13 1926
+447,pcr6_plus,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5831843694965292,0.6117514840844351,12 october 1900 || 7 march 1892 || 4 january 1896,4 january 1896 || 7 march 1892 || may 13 1926
+448,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.6424579473059697,0.003866933177357223,1798 1800 || 1790s || 1810 11,1790s || 1798 1800 || 1810 11
+448,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.0968489245182568,0.9340751723522125,1798 1800 || 1790s || 1810 11,1790s || 1798 1800 || 1810 11
+448,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.10864033519297839,0.7734780375239798,1798 1800 || 1790s || 1810 11,1790s || 1798 1800 || 1810 11
+449,dempster,True,True,3,3,3,1.0,1.0,1.0,1.0,0.15917301508308393,0.8020982524813497,june 4 1873 || january 10 1901 || december 14 1846,december 14 1846 || january 10 1901 || june 4 1873
+449,pcr6,True,True,3,3,3,1.0,1.0,1.0,1.0,0.14863360438135784,0.826116811382145,june 4 1873 || january 10 1901 || december 14 1846,december 14 1846 || january 10 1901 || june 4 1873
+449,pcr6_plus,True,True,3,3,3,1.0,1.0,1.0,1.0,0.15724072306373013,0.7955151086710722,june 4 1873 || january 10 1901 || december 14 1846,december 14 1846 || january 10 1901 || june 4 1873
+450,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.34471640163717954,0.24850169364664856,2010 || 1955 || 1989,1980 || 1989 || 2010
+450,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.11646924751899909,1.3332042353271067,2010 || 1955 || 1989,1980 || 1989 || 2010
+450,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.15936233774534392,0.9006756950345256,2010 || 1955 || 1989,1980 || 1989 || 2010
+451,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.18302135040300835,0.0440733605945238,john ii orsini || john viii palaiologos || andronikos iii palaiologos,andronikos iii palaiologos || john ii orsini || john viii palaiologos
+451,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.05172515677654947,1.1891050109767634,john ii orsini || john viii palaiologos || andronikos iii palaiologos,andronikos iii palaiologos || john ii orsini || john viii palaiologos
+451,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.06098015142331148,0.8748568350228655,john ii orsini || john viii palaiologos || andronikos iii palaiologos,andronikos iii palaiologos || john ii orsini || john viii palaiologos
+452,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.3750507846151832,0.10927259556303494,howard morris || woody allen,howard morris || stanley prager || woody allen
+452,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.32330542058203365,0.1719230558067422,howard morris || woody allen,howard morris || stanley prager || woody allen
+452,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.3782735867709819,0.09942460288200983,howard morris || woody allen,howard morris || stanley prager || woody allen
+453,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.36569586822329797,0.26394263023088893,1878 || around 1797 || 1970s,1878 || 1970s || around 1797
+453,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.26671067392879416,0.4836104784461768,1878 || around 1797 || 1970s,1878 || 1970s || around 1797
+453,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.28646788986234056,0.38539658768430507,1878 || around 1797 || 1970s,1878 || 1970s || around 1797
+454,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5862228296472346,0.046625751648752795,956 || 142 || 205,142 || 205 || 956
+454,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.20519231574361477,0.556084320540802,956 || 142 || 205,142 || 205 || 956
+454,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.22776010607452998,0.46376673839709753,956 || 142 || 205,142 || 205 || 956
+455,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.31246882712079743,0.9590307534204767,1 664 people || 5 000 people || 4 961,1 664 people || 4 961 || 887 people
+455,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3058877679607368,0.9797032177543423,1 664 people || 5 000 people || 4 961,1 664 people || 4 961 || 887 people
+455,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.31188042274362415,0.9564612855585217,1 664 people || 5 000 people || 4 961,1 664 people || 4 961 || 887 people
+456,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.23608368389483983,0.47022181228031756,larry brand || tate taylor || andr t chin,andr t chin || larry brand || tate taylor
+456,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.19874728437407146,0.56341750913465,larry brand || tate taylor || andr t chin,andr t chin || larry brand || tate taylor
+456,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.24064824236594057,0.4547858852996699,larry brand || tate taylor || andr t chin,andr t chin || larry brand || tate taylor
+457,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5919211992503732,0.0548443105974232,september 1 1956 || 1900 || 1882,1852 || 1882 || september 1 1956
+457,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0855212364559994,0.9853670590532054,september 1 1956 || 1852 || 1900,1852 || 1882 || september 1 1956
+457,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09474661823965719,0.5911697277902833,september 1 1956 || 1852 || 1900,1852 || 1882 || september 1 1956
+458,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.0507091011692381,0.20768701717245527,1 august 1848 || 23 september 1854,1 august 1848 || 2 december 1848 || 23 september 1854
+458,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.02293723437247591,0.42233299045797307,1 august 1848 || 23 september 1854,1 august 1848 || 2 december 1848 || 23 september 1854
+458,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.038679499935866384,0.12713646320300315,1 august 1848 || 23 september 1854,1 august 1848 || 2 december 1848 || 23 september 1854
+460,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5689797852250056,0.08993008346776812,18 december 1868 || 18 december 1888 || 1833,18 december 1868 || 1833 || 19 march 1941
+460,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.3226036009702765,0.5492373660943606,18 december 1868 || 18 december 1888 || 1833,18 december 1868 || 1833 || 19 march 1941
+460,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.37835765361284884,0.3716107472530168,18 december 1868 || 18 december 1888 || 1833,18 december 1868 || 1833 || 19 march 1941
+461,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.03681402908088172,1.2116661811663254,verona new york || verona wisconsin || new jersey,new jersey || verona new york || verona wisconsin
+461,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.03726903139436545,1.24850802387418,verona new york || verona wisconsin || new jersey,new jersey || verona new york || verona wisconsin
+461,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.03625379773117672,1.1629767065834,verona new york || verona wisconsin || new jersey,new jersey || verona new york || verona wisconsin
+462,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.34421142460783016,0.02701434219851275,13 january 1891 || january 28 1924 || 6 may 1892,13 january 1891 || 6 may 1892 || january 28 1924
+462,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.004217011237517831,0.6928018458328374,13 january 1891 || january 28 1924 || 6 may 1892,13 january 1891 || 6 may 1892 || january 28 1924
+462,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.00488181609328969,0.6354567587938654,13 january 1891 || january 28 1924 || 6 may 1892,13 january 1891 || 6 may 1892 || january 28 1924
+463,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.023714578798241032,0.8132423613487707,200 laps || 225 laps || 500 laps,175 laps || 200 laps || 225 laps
+463,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.027477129499313857,0.850919978556126,200 laps || 225 laps || 500 laps,175 laps || 200 laps || 225 laps
+463,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.022229961511997187,0.7727930969745613,200 laps || 225 laps || 500 laps,175 laps || 200 laps || 225 laps
+464,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.42681780035525296,0.6431401379637841,9 february 1677 || 9 february 1777 || 11 march 1707,11 march 1707 || 1930 || 9 february 1677
+464,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.36200855174850816,0.8001065916150323,9 february 1677 || 9 february 1777 || 11 march 1707,11 march 1707 || 1930 || 9 february 1677
+464,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.41809870702186985,0.657451187262925,9 february 1677 || 9 february 1777 || 11 march 1707,11 march 1707 || 1930 || 9 february 1677
+465,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.42869985970266644,0.24321989345214573,15 november 1972 || may 7 1975 || december 12 1970,15 november 1972 || december 12 1970 || may 7 1975
+465,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.3567496514498598,0.3821445036702222,15 november 1972 || may 7 1975 || december 12 1970,15 november 1972 || december 12 1970 || may 7 1975
+465,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.37182956190856353,0.3158570020370145,15 november 1972 || may 7 1975 || december 12 1970,15 november 1972 || december 12 1970 || may 7 1975
+466,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1475440430925311,0.20002552311467586,landscape architect || fencer || chef,fencer || landscape architect || triathlete
+466,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.09345397215715166,0.5220254815645822,landscape architect || fencer || chef,fencer || landscape architect || triathlete
+466,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.13626263131372868,0.17614949444550987,landscape architect || fencer || chef,fencer || landscape architect || triathlete
+467,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,6.588722213683978e-05,0.04903752170994749,10 march 1919 || 22 april 1881 || 22 august 1903,10 march 1919 || 22 april 1881 || 22 august 1903
+467,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.015542940236628423,1.3073746125376229,22 august 1903 || 10 march 1919 || 22 april 1881,10 march 1919 || 22 april 1881 || 22 august 1903
+467,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,6.550907725656014e-05,0.8759029319178965,22 august 1903 || 10 march 1919 || 22 april 1881,10 march 1919 || 22 april 1881 || 22 august 1903
+468,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.3900536694423264,0.15683492140641764,douglas dc 3 || namc ys 11a 217 || space shuttle discovery,douglas dc 3 || namc ys 11a 217 || space shuttle discovery
+468,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.10743875060035413,0.8797030581326378,douglas dc 3 || namc ys 11a 217 || space shuttle discovery,douglas dc 3 || namc ys 11a 217 || space shuttle discovery
+468,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.13185420854420934,0.5320717942560994,douglas dc 3 || namc ys 11a 217 || space shuttle discovery,douglas dc 3 || namc ys 11a 217 || space shuttle discovery
+469,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5916156249998608,0.021469439287137383,15 january || 16 january || 7 october,16 january || 7 october || october 30
+469,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1463077905767298,0.8787435912796941,16 january || 15 january || 7 october,16 january || 7 october || october 30
+469,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.16324275868482319,0.6646997577277799,16 january || 15 january || 7 october,16 january || 7 october || october 30
+470,dempster,True,True,4,5,3,1.0,1.0,1.0,1.0,0.15509639024505684,0.870464540824645,barrie ontario canada || fulton illinois usa || hudsonville michigan,barrie ontario canada || fulton illinois usa || hudsonville michigan
+470,pcr6,True,True,4,5,3,1.0,1.0,1.0,1.0,0.1330518668518376,0.9591318549086381,barrie ontario canada || fulton illinois usa || hudsonville michigan,barrie ontario canada || fulton illinois usa || hudsonville michigan
+470,pcr6_plus,True,True,4,5,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.15319894537705564,0.8686584354571542,barrie ontario canada || fulton illinois usa || miami florida usa,barrie ontario canada || fulton illinois usa || hudsonville michigan
+471,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.15741766627253823,0.6857820718213202,1913 || 14 may 1996 || 1940,14 may 1996 || 1913 || 1940
+471,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.14659523423770784,0.7165771021206735,1913 || 14 may 1996 || 1940,14 may 1996 || 1913 || 1940
+471,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.15675470034950145,0.6798925734296717,1913 || 14 may 1996 || 1940,14 may 1996 || 1913 || 1940
+472,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.3258511890978048,0.16265238596052933,27 april 2010 || 1 november 1865 || 1876,1 november 1865 || 1876 || 27 april 2010
+472,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.11285093386679687,0.6563552159827549,27 april 2010 || 1 november 1865 || 1876,1 november 1865 || 1876 || 27 april 2010
+472,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.13619937637879334,0.4872990876273902,27 april 2010 || 1 november 1865 || 1876,1 november 1865 || 1876 || 27 april 2010
+473,dempster,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4449200112924564,0.31061299723937685,25 7 years || 38 years || 40 years,38 years || 40 years || 41 9 years
+473,pcr6,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1579929496640698,1.3967840473148203,25 7 years || 38 years || 40 years,38 years || 40 years || 41 9 years
+473,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.18414939246420509,0.8433746218206918,25 7 years || 38 years || 41 9 years,38 years || 40 years || 41 9 years
+474,dempster,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10667237205391847,1.237167556626756,1979 || 28 april 1948 || 1975,1969 || 1979 || 28 april 1948
+474,pcr6,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10751463294763262,1.2426391431556598,1979 || 28 april 1948 || 1975,1969 || 1979 || 28 april 1948
+474,pcr6_plus,True,True,3,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10379627343812461,1.2176414025474143,1979 || 28 april 1948 || 1975,1969 || 1979 || 28 april 1948
+475,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.59957876699047,0.08889029372498237,1912 1914 || 1850 || 1902,1902 || 1907 || 1912 1914
+475,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.42535084852797533,0.38629012156374737,1912 1914 || 1850 || 1902,1902 || 1907 || 1912 1914
+475,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5002541373942331,0.22687999245957122,1912 1914 || 1850 || 1902,1902 || 1907 || 1912 1914
+476,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.5481957726542052,0.0763285616995921,1872 || 1928 || 1874,1872 || 1874 || 1928
+476,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.19571950156955803,0.5603257636241281,1872 || 1928 || 1874,1872 || 1874 || 1928
+476,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.29102615976040797,0.26006532406269184,1872 || 1928 || 1874,1872 || 1874 || 1928
+477,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5021400040943242,0.1547107474661948,1840 1843 || 1912 || 1920,1840 1843 || 1880 || 1912
+477,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.29426219548901233,0.5727651347216827,1840 1843 || 1912 || 1920,1840 1843 || 1880 || 1912
+477,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.34574995328068936,0.35303071591323115,1840 1843 || 1912 || 1920,1840 1843 || 1880 || 1912
+478,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.12286894381701402,0.7400362161149836,9 july 1848 || 25 april 1885 || 3 june 1912,25 april 1885 || 3 june 1912 || 9 july 1848
+478,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.1121864148581768,0.7787375281877187,9 july 1848 || 25 april 1885 || 3 june 1912,25 april 1885 || 3 june 1912 || 9 july 1848
+478,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.121223282307341,0.7421389970677983,9 july 1848 || 25 april 1885 || 3 june 1912,25 april 1885 || 3 june 1912 || 9 july 1848
+479,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5413274739063404,0.13591765232260317,15 october 1930 || 13 august 1896 || 2 june 1926,13 august 1896 || 2 june 1926 || 9 october 1834
+479,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.2250004456387694,1.037344805785554,15 october 1930 || 13 august 1896 || 2 june 1926,13 august 1896 || 2 june 1926 || 9 october 1834
+479,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4300010083271516,0.05637175516147341,15 october 1930 || 13 august 1896 || 2 june 1926,13 august 1896 || 2 june 1926 || 9 october 1834
+480,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.2700029765583214,0.06708656206983792,219 126 || 175915 || 225 596,175915 || 219 126 || 225 596
+480,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.023318680462066716,0.9270806705339185,219 126 || 175915 || 225 596,175915 || 219 126 || 225 596
+480,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.044388003777155474,0.6039745288766507,219 126 || 175915 || 225 596,175915 || 219 126 || 225 596
+481,dempster,True,True,3,5,3,1.0,1.0,1.0,1.0,0.12371101203912757,0.7564707285314862,chesapeake ohio || baltimore county maryland || anne arundel county,anne arundel county || baltimore county maryland || chesapeake ohio
+481,pcr6,True,True,3,5,3,1.0,1.0,1.0,1.0,0.11400340395468503,0.789679168914667,chesapeake ohio || baltimore county maryland || anne arundel county,anne arundel county || baltimore county maryland || chesapeake ohio
+481,pcr6_plus,True,True,3,5,3,1.0,1.0,1.0,1.0,0.1323859503588393,0.7214639092937106,chesapeake ohio || baltimore county maryland || anne arundel county,anne arundel county || baltimore county maryland || chesapeake ohio
+482,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.8221720820732271,0.40718489683564935,steven spielberg || zolt n korda || darrell roodt,darrell roodt || zolt n korda || zoltan korda
+482,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.682748435340575,0.6074469172959418,steven spielberg || zolt n korda || darrell roodt,darrell roodt || zolt n korda || zoltan korda
+482,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.8036739532330767,0.39075527019563816,steven spielberg || zolt n korda || darrell roodt,darrell roodt || zolt n korda || zoltan korda
+483,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.2510610535800891,0.2375501876381378,ray peterson || elvis presley,elvis presley || ray peterson || the sandpipers
+483,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.22159113965840255,0.2831649710578299,ray peterson || elvis presley,elvis presley || ray peterson || the sandpipers
+483,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.26039747955705084,0.21927193853333649,ray peterson || elvis presley,elvis presley || ray peterson || the sandpipers
+484,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.3260483613450011,0.1948583822780998,secret || katie melua || bananarama,bananarama || katie melua || secret
+484,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.0350788497659062,0.9063489651100827,secret || katie melua || bananarama,bananarama || katie melua || secret
+484,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.03188684568756659,0.4675074469723353,secret || katie melua || bananarama,bananarama || katie melua || secret
+485,dempster,True,True,4,4,3,1.0,1.0,1.0,1.0,0.14818055806483313,0.992929677924117,documentary || musical comedy film || silent cartoon short,documentary || musical comedy film || silent cartoon short
+485,pcr6,True,True,4,4,3,1.0,1.0,1.0,1.0,0.1311935153193446,1.052445152408803,documentary || musical comedy film || silent cartoon short,documentary || musical comedy film || silent cartoon short
+485,pcr6_plus,True,True,4,4,3,1.0,1.0,1.0,1.0,0.14668094723772468,0.990111082833776,documentary || musical comedy film || silent cartoon short,documentary || musical comedy film || silent cartoon short
+486,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1450331577843708,1.4761652888585894,taylor swift || devo || elvis presley,baz luhrmann || devo || elvis presley
+486,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.14301526944755633,1.4928317946102427,taylor swift || devo || elvis presley,baz luhrmann || devo || elvis presley
+486,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1564029331878872,1.429296161217218,taylor swift || devo || elvis presley,baz luhrmann || devo || elvis presley
+487,dempster,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.17119876413303928,0.0059919364956602834,1691 || 1603 || 1675,1603 || 1691 || 1703
+487,pcr6,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10269235748206974,1.1175152171189855,1691 || 1603 || 1675,1603 || 1691 || 1703
+487,pcr6_plus,True,True,5,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.10281849859581794,0.9850268955388058,1691 || 1603 || 1675,1603 || 1691 || 1703
+488,dempster,True,True,3,6,3,1.0,1.0,1.0,1.0,0.6477796018528453,0.011623052767695569,bodybuilding || football || rugby league,bodybuilding || football || rugby league
+488,pcr6,True,True,3,6,3,1.0,1.0,1.0,1.0,0.45717726674216275,0.21939734997229934,bodybuilding || football || rugby league,bodybuilding || football || rugby league
+488,pcr6_plus,True,True,3,6,3,1.0,1.0,1.0,1.0,0.473171818797829,0.19070151018812823,bodybuilding || football || rugby league,bodybuilding || football || rugby league
+489,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.47388578499036454,0.024889398584116897,17 december 1835 || june 29 1877,1605 england || 17 december 1835 || june 29 1877
+489,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.45346545119132287,0.045893791033198815,17 december 1835 || june 29 1877,1605 england || 17 december 1835 || june 29 1877
+489,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.4737023841661736,0.02414506577503393,17 december 1835 || june 29 1877,1605 england || 17 december 1835 || june 29 1877
+490,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.06838464107669284,0.06311266299571532,66 495 || 254 137 || 25 038,25 038 || 254 137 || 66 495
+490,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.02230920883383895,1.2552873200588426,66 495 || 254 137 || 25 038,25 038 || 254 137 || 66 495
+490,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.011218909172234249,0.8310653618319994,254 137 || 66 495 || 25 038,25 038 || 254 137 || 66 495
+491,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.006140953953202062,0.73717017976275,lieutenant general || brigadier general,brigadier general || lieutenant general || major general
+491,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.005918336223636466,0.7414189972367903,lieutenant general || brigadier general,brigadier general || lieutenant general || major general
+491,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.0060890160150620576,0.7232391187940468,lieutenant general || brigadier general,brigadier general || lieutenant general || major general
+492,dempster,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.0013874893760877816,0.855983804544724,1930 || 1926 27,1902 1903 || 1926 27 || 1930
+492,pcr6,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.0013724736982404498,0.8566262365409689,1930 || 1926 27,1902 1903 || 1926 27 || 1930
+492,pcr6_plus,True,False,2,6,3,0.0,1.0,0.6666666666666666,0.8,0.0013412801550946973,0.8515158269612859,1930 || 1926 27,1902 1903 || 1926 27 || 1930
+493,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0897815158593289,1.6392840535362663,george formby || charlie chaplin || bob bailey,bob bailey || george formby || george wallace
+493,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08965020382201117,1.6450870586457356,george formby || charlie chaplin || bob bailey,bob bailey || george formby || george wallace
+493,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08937235160027704,1.6188454403160901,george formby || charlie chaplin || bob bailey,bob bailey || george formby || george wallace
+494,dempster,True,True,3,4,3,1.0,1.0,1.0,1.0,0.5996355577859213,0.07425849819396563,17 october 1871 || 1811 || 20 september 1906,17 october 1871 || 1811 || 20 september 1906
+494,pcr6,True,True,3,4,3,1.0,1.0,1.0,1.0,0.5566589218132845,0.12806670325804656,17 october 1871 || 1811 || 20 september 1906,17 october 1871 || 1811 || 20 september 1906
+494,pcr6_plus,True,True,3,4,3,1.0,1.0,1.0,1.0,0.6006845316935135,0.06994099312808202,17 october 1871 || 1811 || 20 september 1906,17 october 1871 || 1811 || 20 september 1906
+495,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.03849418754943029,0.20044421498019394,272 || 291 || 48,272 || 291 || 48
+495,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.036561030682705505,1.0179810828628395,291 || 272 || 48,272 || 291 || 48
+495,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.050653588928301206,0.31773566785794854,291 || 272 || 48,272 || 291 || 48
+496,dempster,True,True,4,6,3,1.0,1.0,1.0,1.0,0.2779646935324236,0.3147427325282727,republic of honduras || guatemala || brazil,brazil || guatemala || republic of honduras
+496,pcr6,True,True,4,6,3,1.0,1.0,1.0,1.0,0.20746656509560818,0.5441027303359096,republic of honduras || guatemala || brazil,brazil || guatemala || republic of honduras
+496,pcr6_plus,True,True,4,6,3,1.0,1.0,1.0,1.0,0.26501814419872044,0.32704653475951184,republic of honduras || guatemala || brazil,brazil || guatemala || republic of honduras
+498,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08860396562146508,1.5690392134673181,1878 || 1868 || 1912,1878 || 1897 || 1912
+498,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.08841911776123071,1.578007913980469,1878 || 1868 || 1912,1878 || 1897 || 1912
+498,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.0878435230262112,1.5366408857128286,1878 || 1868 || 1912,1878 || 1897 || 1912
+499,dempster,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.4473618798853898,0.283890587044691,11 march 1816 || 14 august 1900 || 14 august 1850,11 march 1816 || 14 august 1850 || 15 march 1862
+499,pcr6,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.12202227509184241,1.2463032263259752,11 march 1816 || 14 august 1900 || 14 august 1850,11 march 1816 || 14 august 1850 || 15 march 1862
+499,pcr6_plus,True,True,4,6,3,0.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.1502593497289512,0.932524894666132,11 march 1816 || 14 august 1900 || 14 august 1850,11 march 1816 || 14 august 1850 || 15 march 1862

@@ -24,6 +24,13 @@ so that their combined residual ignorance equals that of one original source.
 - Oracle bootstrap replicates: `2000`
 - NLI bootstrap replicates: `4000`
 
+## PCR6+ confirmatory extension
+
+- Controlled multi-source benchmark: protocol version `1.4`, seed `20260916`, 1,000 items, 4-candidate frame, bootstrap replicates `10000`.
+- Confirmatory hypotheses (H1-H3): one-sided paired sign-flip permutation tests, `100000` replicates, seed `20260916`, Holm correction across the three hypotheses.
+- RAMDocs external validation of PCR6+: same fixed NLI outputs as the oracle/NLI experiments above (`results/nli/nli_scores.jsonl`), 428 eligible items, 260-item prespecified applicability subset (at least three retained BBAs, at least three candidates, at least one proper non-singleton focal element).
+- Decision-rule sensitivity (BetP, DSmP with `epsilon = 0.001`, maximum belief, maximum plausibility, minimum Euclidean-family belief-interval distance) is conducted after the confirmatory analysis and is exploratory; it is not adjusted for multiplicity.
+
 ## Important limits
 
 - The RAMDocs answer frame is exclusive and does not test the full hyper-power-set representation of DSmT.

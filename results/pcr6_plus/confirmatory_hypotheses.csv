@@ -1,0 +1,4 @@
+﻿hypothesis,label,n,difference_pcr6_plus_minus_pcr6,one_sided_p,holm_adjusted_p,reject_at_0_05
+H1,Controlled partial-ignorance Brier,1000,-0.0452194364280884,9.99990000099999e-06,2.999970000299997e-05,True
+H2,Vacuous-source invariance TV,1000,-0.08031213523149532,9.99990000099999e-06,2.999970000299997e-05,True
+H3,RAMDocs applicability Brier,260,0.02748667859490972,1.0,1.0,False

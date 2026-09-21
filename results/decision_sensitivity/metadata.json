@@ -1,0 +1,17 @@
+{
+  "analysis": "post-confirmatory decision-rule sensitivity",
+  "dsmp_epsilon": 0.001,
+  "decision_rules": [
+    "betp",
+    "dsmp_epsilon_0.001",
+    "max_belief",
+    "max_plausibility",
+    "min_belief_interval_distance"
+  ],
+  "fusion_rules": [
+    "dempster",
+    "pcr6",
+    "pcr6_plus"
+  ],
+  "seed": 20260916
+}

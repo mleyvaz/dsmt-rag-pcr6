@@ -1,0 +1,14 @@
+{
+  "protocol_version": "1.4",
+  "seed": 20260916,
+  "n_items": 1000,
+  "bootstrap_replicates": 10000,
+  "frame_size": 4,
+  "conditions": [
+    "independent_clean",
+    "partial_ignorance_conflict",
+    "vacuous_source_injection",
+    "near_vacuous_source_injection"
+  ],
+  "rules": ["dempster", "pcr6", "pcr6_plus"]
+}

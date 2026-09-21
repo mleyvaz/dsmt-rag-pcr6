@@ -1,0 +1,8 @@
+{
+  "data": "RAMDocs_test.jsonl (official RAMDocs test file; see docs/DATA_SOURCES.md for hash and retrieval date)",
+  "nli": "results/nli/nli_scores.jsonl (this repository)",
+  "items_loaded": 500,
+  "nli_pairs": 7802,
+  "maximum_sources": 6,
+  "mapping": "protocol_v1.4"
+}

@@ -1,0 +1,6 @@
+﻿condition,contrast,metric,n,difference,ci95_low,ci95_high
+independent_clean,pcr6_plus_minus_pcr6,brier,1000,0.0,0.0,0.0
+partial_ignorance_conflict,pcr6_plus_minus_pcr6,brier,1000,-0.0452194364280884,-0.04573940119789603,-0.04470214676086676
+vacuous_source_injection,pcr6_plus_minus_pcr6,brier,1000,-0.13747411166596618,-0.13804873808020485,-0.1368938275536818
+near_vacuous_source_injection,pcr6_plus_minus_pcr6,brier,1000,-0.13029901769885896,-0.13088627133012562,-0.12969918279230933
+vacuous_source_injection,pcr6_plus_minus_pcr6,invariance_tv,1000,-0.08031213523149532,-0.08062024356062658,-0.07999379002573566
